@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "appName": "Scripture Reader",
+  "translation": "KJV",
+  "dataVersion": "1.0.0",
+  "bibleUrl": "https://app-developerz.github.io/data/kjv-flat.json",
+  "prettyBibleUrl": "https://app-developerz.github.io/data/kjv-flat-pretty.json",
+  "supportUrl": "https://app-developerz.github.io/support.html",
+  "minimumAppVersion": "1.0.0"
+}

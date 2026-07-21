@@ -9,5 +9,16 @@
   "booksBaseUrl": "https://app-developerz.github.io/data/books",
   "supportUrl": "https://app-developerz.github.io/support.html",
   "minimumAppVersion": "1.0.0",
-  "cacheTtlSeconds": 86400
+  "cacheTtlSeconds": 86400,
+  "audio": {
+    "enabled": true,
+    "baseUrl": "https://app-developerz.github.io/audio/kjv",
+    "format": "mp3",
+    "voice": "en-US-GuyNeural",
+    "rate": "-5%",
+    "availableBooks": [
+      "genesis"
+    ],
+    "pathPattern": "{bookSlug}/{chapter}/{verse}.mp3"
+  }
 }

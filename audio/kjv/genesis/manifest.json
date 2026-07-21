@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis",
+    "chapterCount": 50,
+    "verseCount": 1533
+  },
+  "narration": {
+    "voice": "en-US-GuyNeural",
+    "rate": "-5%",
+    "volume": "+0%",
+    "pitch": "+0Hz",
+    "includesReference": false,
+    "pathPattern": "{bookSlug}/{chapter}/{verse}.mp3"
+  },
+  "lastRun": {
+    "generated": 1532,
+    "skipped": 1,
+    "failed": 0,
+    "unixTimestamp": 1784676728
+  }
+}

@@ -3,8 +3,11 @@
   "appName": "Scripture Reader",
   "translation": "KJV",
   "dataVersion": "1.0.0",
-  "bibleUrl": "https://app-developerz.github.io/data/kjv-flat.json",
+  "indexUrl": "https://app-developerz.github.io/data/index.json",
+  "fullBibleUrl": "https://app-developerz.github.io/data/kjv-flat.json",
   "prettyBibleUrl": "https://app-developerz.github.io/data/kjv-flat-pretty.json",
+  "booksBaseUrl": "https://app-developerz.github.io/data/books",
   "supportUrl": "https://app-developerz.github.io/support.html",
-  "minimumAppVersion": "1.0.0"
+  "minimumAppVersion": "1.0.0",
+  "cacheTtlSeconds": 86400
 }

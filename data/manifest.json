@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "1.0.0",
+  "fileCount": 71,
+  "files": [
+    {
+      "path": "data/app-config.json",
+      "bytes": 519,
+      "sha256": "16ca9b3b7ab72e5d47bd52ef4c16d95261d65fad6642686ab7155d2f4c4e2d27"
+    },
+    {
+      "path": "data/books/1-chronicles.json",
+      "bytes": 164758,
+      "sha256": "268ef4e8cd38307920aff73ff005cec0c1c8c00bece3279fb1b41e0c2508f04d"
+    },
+    {
+      "path": "data/books/1-corinthians.json",
+      "bytes": 74268,
+      "sha256": "4b9df67ef51b3a63412456bfcfdae02b4a5d246fe384ecebc802173a223c9186"
+    },
+    {
+      "path": "data/books/1-john.json",
+      "bytes": 18150,
+      "sha256": "33ef4489e32b9887dbdf9c9e9b6a84b72240570718b94ccf00628e60675cdf4c"
+    },
+    {
+      "path": "data/books/1-kings.json",
+      "bytes": 169489,
+      "sha256": "454db0665eae053b9ffaba41a938e99af165fff702be7aedf39d2fc36cdd5e25"
+    },
+    {
+      "path": "data/books/1-peter.json",
+      "bytes": 19048,
+      "sha256": "cb71b28125e41836115fcea535ad01e7b6f5ea5c91f4a93f2c1eb9d7b5856cb2"
+    },
+    {
+      "path": "data/books/1-samuel.json",
+      "bytes": 172722,
+      "sha256": "47c117b84d0d2efa802e42f2b3ab9f40e46382aecd385a5886d70b61aa6c41f0"
+    },
+    {
+      "path": "data/books/1-thessalonians.json",
+      "bytes": 15119,
+      "sha256": "f98064b499db0585b112603e986cbe9a4a875704f08c1bb357beb3b541310ced"
+    },
+    {
+      "path": "data/books/1-timothy.json",
+      "bytes": 18874,
+      "sha256": "42b1ee8bf0078b375d67d1a4dd515fd0ec0bbbefcc2d8e231c3ddebcdc8adea7"
+    },
+    {
+      "path": "data/books/2-chronicles.json",
+      "bytes": 186403,
+      "sha256": "328af29816064c2b7af1874994939af00d21f915b4956fec89df64a687fdcf3b"
+    },
+    {
+      "path": "data/books/2-corinthians.json",
+      "bytes": 47135,
+      "sha256": "2897fb7bf30c9e07d99337148dacc86d906f588b790cae01f868666a4becf9b0"
+    },
+    {
+      "path": "data/books/2-john.json",
+      "bytes": 2384,
+      "sha256": "4c369ddb68dafc94f8f7da750bd40366cc415bf577ab1ef473fa7c95eb99973b"
+    },
+    {
+      "path": "data/books/2-kings.json",
+      "bytes": 158374,
+      "sha256": "f4a184193e00465d4a37d29931987f6431b1fb66f4899b97424f88c09e603418"
+    },
+    {
+      "path": "data/books/2-peter.json",
+      "bytes": 12010,
+      "sha256": "645db4628b38d79974549f306c4258b11ba5cd00b1d77ac06696289296014a8e"
+    },
+    {
+      "path": "data/books/2-samuel.json",
+      "bytes": 143484,
+      "sha256": "4f1a14c2cf8e89a8806bb67fbe87401286e702b274df4a4d94fca4365f79048f"
+    },
+    {
+      "path": "data/books/2-thessalonians.json",
+      "bytes": 8420,
+      "sha256": "32bd872cd41ead3faaa64b947c1b1895036707722bf57067fcb6b9ae0e00d9c7"
+    },
+    {
+      "path": "data/books/2-timothy.json",
+      "bytes": 13775,
+      "sha256": "ad74e3657652c03512e1003905e521417b544bf3de0650e2a6906561dc94d7a7"
+    },
+    {
+      "path": "data/books/3-john.json",
+      "bytes": 2476,
+      "sha256": "d831058e1869c15dff5fc1d63b5a56a65147db52010732d4e5dc7d423e1a9bbf"
+    },
+    {
+      "path": "data/books/acts.json",
+      "bytes": 178474,
+      "sha256": "440e293e9293943b9d278cc3d0f642f6773126db549240736e7f6e4b65c66f01"
+    },
+    {
+      "path": "data/books/amos.json",
+      "bytes": 29149,
+      "sha256": "a5e7584caf9e98c13ee95cc643a840471a8d70922c04200fabd93ecf0c50f7cf"
+    },
+    {
+      "path": "data/books/colossians.json",
+      "bytes": 16034,
+      "sha256": "7f2754561e786dd4d25c4e94b04d67d396ad6e347f6076ab6af7c6ac4ae0c8c5"
+    },
+    {
+      "path": "data/books/daniel.json",
+      "bytes": 80162,
+      "sha256": "84be8682ec898df1634773b606b0e98cf25ee3a7d8a8d9e01b31b181175bc586"
+    },
+    {
+      "path": "data/books/deuteronomy.json",
+      "bytes": 200403,
+      "sha256": "3989089cde3bcc16ebc02d07138462e86dc57420c1fa72dc4cdb579d1eb07ac2"
+    },
+    {
+      "path": "data/books/ecclesiastes.json",
+      "bytes": 41400,
+      "sha256": "0690d1eaf6f607dca07b92440f1a1c71220ad484b5e67db3fa937ebe8101316a"
+    },
+    {
+      "path": "data/books/ephesians.json",
+      "bytes": 24612,
+      "sha256": "eef484e572a6c616c709d3bd391d85e579e2de83e9dec7f10f277d9a40c0256d"
+    },
+    {
+      "path": "data/books/esther.json",
+      "bytes": 38966,
+      "sha256": "84fc61e619e2d475d0c4b18e2a11d8ba6633154a69e3d5dbeb14678c5fa3fb86"
+    },
+    {
+      "path": "data/books/exodus.json",
+      "bytes": 231556,
+      "sha256": "40caff2a3227cffb00ffcc340636baf14b9a6adc6f1e0a6c9322c5cb0c4151d1"
+    },
+    {
+      "path": "data/books/ezekiel.json",
+      "bytes": 272479,
+      "sha256": "cb3fd0cd2f0ea98ba720f84016f2d28c122816e135bd4aba6f9457e500ffed38"
+    },
+    {
+      "path": "data/books/ezra.json",
+      "bytes": 54134,
+      "sha256": "924b1f0f4632e96a0f64b593636d44bb6813674a28c7b7217cf3aad361a871ad"
+    },
+    {
+      "path": "data/books/galatians.json",
+      "bytes": 24271,
+      "sha256": "b3638f0164882436c45123a60779e6ccc3ad941907ccbe343cc5f8cfe9e37c61"
+    },
+    {
+      "path": "data/books/genesis.json",
+      "bytes": 276744,
+      "sha256": "ace9b063741d2f8f8bded3cef281f39ebc01de029882bdf3594db64fa3a30757"
+    },
+    {
+      "path": "data/books/habakkuk.json",
+      "bytes": 11095,
+      "sha256": "758248474f1db478393cba865dc201e37fa6466fa8cb7577cea581115fafdba1"
+    },
+    {
+      "path": "data/books/haggai.json",
+      "bytes": 7861,
+      "sha256": "4f231be1f6fba0372e10ed5053436ce0c98852489209c56e90756945f8bd20f2"
+    },
+    {
+      "path": "data/books/hebrews.json",
+      "bytes": 52997,
+      "sha256": "efc9bdde8edaa5d50bc38963b1a8ab9cf97939baf26c35c85bfd893f90569267"
+    },
+    {
+      "path": "data/books/hosea.json",
+      "bytes": 37311,
+      "sha256": "5904b1ae67e2a8fcee2515a727fd18f6503056b4939ca021490acfa2aa9a9ff7"
+    },
+    {
+      "path": "data/books/isaiah.json",
+      "bytes": 261203,
+      "sha256": "a3e9fdce22b167ce417b3905e2c8dbf49d6b72908224c7731c1c89d40d7769e9"
+    },
+    {
+      "path": "data/books/james.json",
+      "bytes": 17599,
+      "sha256": "e844fd2ff35c686caa4611108c716cfce12637aadf347e1a73d6ddac6489e542"
+    },
+    {
+      "path": "data/books/jeremiah.json",
+      "bytes": 296496,
+      "sha256": "14b7bddf7691e0dad15ce3c55dc9a048fb9b55f1cd58fc81b0def5b617440e12"
+    },
+    {
+      "path": "data/books/job.json",
+      "bytes": 145927,
+      "sha256": "75b986442f1d8063845ec101491a0ae575ff0490281e8c3abe41355fde2923b0"
+    },
+    {
+      "path": "data/books/joel.json",
+      "bytes": 14397,
+      "sha256": "42a3abbfe08a069ad170ce2e6433adeb752306148de8c846a394be0bee7a7189"
+    },
+    {
+      "path": "data/books/john.json",
+      "bytes": 140072,
+      "sha256": "78bd6f80709865e67a9a8e594e45e9d69a88a340143f2756a9410f871bcb5ccb"
+    },
+    {
+      "path": "data/books/jonah.json",
+      "bytes": 9211,
+      "sha256": "a0ea7aef40390156a9faf95f232745083eb743945b86560909f2142bbd40e617"
+    },
+    {
+      "path": "data/books/joshua.json",
+      "bytes": 133880,
+      "sha256": "be237899fd93d182bf03bd8894ff6b4538a59e3a11b4d7e2789cff7f90d8feab"
+    },
+    {
+      "path": "data/books/jude.json",
+      "bytes": 4888,
+      "sha256": "dbdf4721f086391a6f8102967ed99a0e2cb62cf72979f8a234dac5a6903ee8ce"
+    },
+    {
+      "path": "data/books/judges.json",
+      "bytes": 130290,
+      "sha256": "e518021403956c1100b997fe3f7d2ee66cde79a8918b01393de435233363f6fb"
+    },
+    {
+      "path": "data/books/lamentations.json",
+      "bytes": 26946,
+      "sha256": "dd84f4d778602d6a701cfc21d67f020230e3612f032036d36a84013713bfd01d"
+    },
+    {
+      "path": "data/books/leviticus.json",
+      "bytes": 173820,
+      "sha256": "ac1ea77cc395c380b04ceb260264b59a5414ce3b6d5f9b9b6105fe8377785dbd"
+    },
+    {
+      "path": "data/books/luke.json",
+      "bytes": 189945,
+      "sha256": "becf32dadb6e8585c92050447fc9a04dc736b0e7d2d337da4a0e9df443cdf3e4"
+    },
+    {
+      "path": "data/books/malachi.json",
+      "bytes": 12273,
+      "sha256": "9237aeb8e707d6f2d956a37bd0adcc00d2325f53413977b1fdcf9c385c57ed54"
+    },
+    {
+      "path": "data/books/mark.json",
+      "bytes": 111626,
+      "sha256": "4dc244b7abfcbd2572bb46706be9eac0a4280b2e397c30d50052d3bd9c57705d"
+    },
+    {
+      "path": "data/books/matthew.json",
+      "bytes": 179313,
+      "sha256": "795cb47f3ff9e14ca3c6457075e76f0a7ff5b384c5f0c8881ba8755dcc1004e6"
+    },
+    {
+      "path": "data/books/micah.json",
+      "bytes": 21781,
+      "sha256": "14d87b6d413c759e605471dc35d4ab55961836607aa365889ecb5966525e895b"
+    },
+    {
+      "path": "data/books/nahum.json",
+      "bytes": 9466,
+      "sha256": "16c3de8a6c44868f5614c62f615dded4f94fa8d999891cc65bd27cea547beb53"
+    },
+    {
+      "path": "data/books/nehemiah.json",
+      "bytes": 78619,
+      "sha256": "241ecee98f54655469ca1dcd905d3d4497063d0f242f71066a16091d53fd74e7"
+    },
+    {
+      "path": "data/books/numbers.json",
+      "bytes": 242445,
+      "sha256": "ed3698461f6737566b1a1d24f59e95a3982c35d533707ac835b60cea5bc403a4"
+    },
+    {
+      "path": "data/books/obadiah.json",
+      "bytes": 4858,
+      "sha256": "0f60a6cef55d38e90f2c1a6b4ff7281dca1a83350d5743a4c5c7c8950e3ce0b9"
+    },
+    {
+      "path": "data/books/philemon.json",
+      "bytes": 3789,
+      "sha256": "0c4f4015c53a5a8989381853344a97e4a9e7b5d2df9331bb85e8d9d68d3911c1"
+    },
+    {
+      "path": "data/books/philippians.json",
+      "bytes": 17457,
+      "sha256": "6dbaec2bc3175270ed9177765457ebdc3fd7cacfe8f0063d9a348819d93db8ac"
+    },
+    {
+      "path": "data/books/proverbs.json",
+      "bytes": 128920,
+      "sha256": "4a67f38ace4042025242b86bcab4438df94cbe1bea7deca897f9415b9a8aa12c"
+    },
+    {
+      "path": "data/books/psalms.json",
+      "bytes": 352691,
+      "sha256": "234222d05f418bcbb28f94e69c24870baccfa9f1b3d44795eddb6dda044d0399"
+    },
+    {
+      "path": "data/books/revelation.json",
+      "bytes": 84404,
+      "sha256": "040f2aba35dddac5077c0ae55a0f4dd0e02a67e954e37e7574465bc73b641086"
+    },
+    {
+      "path": "data/books/romans.json",
+      "bytes": 72162,
+      "sha256": "b81a9637a5cb0160a2a42c3ecdb05296cc5652b3f49c56cfa23f3e3807529f9e"
+    },
+    {
+      "path": "data/books/ruth.json",
+      "bytes": 17340,
+      "sha256": "cbd71b21096e874f2b3538932506e8f112ff4b1c3eb9aa870b07ec9eb7d46a5c"
+    },
+    {
+      "path": "data/books/song-of-solomon.json",
+      "bytes": 21081,
+      "sha256": "31f8f14c5678d50c809c95debb75c9639c02638eb7ee36dcbf4db6a882f9467e"
+    },
+    {
+      "path": "data/books/titus.json",
+      "bytes": 7574,
+      "sha256": "df5b9bc1a258fcf23b4cd65f579116ebbf13b8002c3149ad70a97d49c3eba051"
+    },
+    {
+      "path": "data/books/zechariah.json",
+      "bytes": 44649,
+      "sha256": "7b973d25ed8ad4ac660e55fee208a84f3122ed3857a3a1eca248ee12c7fc2377"
+    },
+    {
+      "path": "data/books/zephaniah.json",
+      "bytes": 11554,
+      "sha256": "73db9813c79bc88bc5430d19a86de600627f13227415a910ba3f42d9e880d9e2"
+    },
+    {
+      "path": "data/index.json",
+      "bytes": 18135,
+      "sha256": "60f21092dcf7f99f33914ec900867d489fb2e4bca8d419f8fa3efbac9ec1817c"
+    },
+    {
+      "path": "data/kjv-flat-pretty.json",
+      "bytes": 8502882,
+      "sha256": "dff0beae84370e180280810b6563fb467f1bc25a82c5df81bfbc69a5166bcab8"
+    },
+    {
+      "path": "data/kjv-flat.json",
+      "bytes": 7206801,
+      "sha256": "9c4993a097c590e1a807cbffbe5b5f372882274f353d799eb3bcda2b8f7d2d80"
+    },
+    {
+      "path": "data/version.json",
+      "bytes": 141,
+      "sha256": "1676e3f9b78203fae36615622f37ac464dee0e03c0bde54447f2f48253bf9754"
+    }
+  ]
+}

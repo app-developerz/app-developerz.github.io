@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "1.0.0",
+  "translation": {
+    "id": "kjv",
+    "name": "King James Version",
+    "language": "en"
+  },
+  "totals": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "oldTestamentVerses": 23145,
+    "newTestamentVerses": 7957
+  },
+  "bookFileFormat": "grouped-chapters-v1",
+  "booksBaseUrl": "https://app-developerz.github.io/data/books",
+  "books": [
+    {
+      "order": 1,
+      "name": "Genesis",
+      "slug": "genesis",
+      "testament": "Old",
+      "chapterCount": 50,
+      "verseCount": 1533,
+      "path": "books/genesis.json",
+      "url": "https://app-developerz.github.io/data/books/genesis.json"
+    },
+    {
+      "order": 2,
+      "name": "Exodus",
+      "slug": "exodus",
+      "testament": "Old",
+      "chapterCount": 40,
+      "verseCount": 1213,
+      "path": "books/exodus.json",
+      "url": "https://app-developerz.github.io/data/books/exodus.json"
+    },
+    {
+      "order": 3,
+      "name": "Leviticus",
+      "slug": "leviticus",
+      "testament": "Old",
+      "chapterCount": 27,
+      "verseCount": 859,
+      "path": "books/leviticus.json",
+      "url": "https://app-developerz.github.io/data/books/leviticus.json"
+    },
+    {
+      "order": 4,
+      "name": "Numbers",
+      "slug": "numbers",
+      "testament": "Old",
+      "chapterCount": 36,
+      "verseCount": 1288,
+      "path": "books/numbers.json",
+      "url": "https://app-developerz.github.io/data/books/numbers.json"
+    },
+    {
+      "order": 5,
+      "name": "Deuteronomy",
+      "slug": "deuteronomy",
+      "testament": "Old",
+      "chapterCount": 34,
+      "verseCount": 959,
+      "path": "books/deuteronomy.json",
+      "url": "https://app-developerz.github.io/data/books/deuteronomy.json"
+    },
+    {
+      "order": 6,
+      "name": "Joshua",
+      "slug": "joshua",
+      "testament": "Old",
+      "chapterCount": 24,
+      "verseCount": 658,
+      "path": "books/joshua.json",
+      "url": "https://app-developerz.github.io/data/books/joshua.json"
+    },
+    {
+      "order": 7,
+      "name": "Judges",
+      "slug": "judges",
+      "testament": "Old",
+      "chapterCount": 21,
+      "verseCount": 618,
+      "path": "books/judges.json",
+      "url": "https://app-developerz.github.io/data/books/judges.json"
+    },
+    {
+      "order": 8,
+      "name": "Ruth",
+      "slug": "ruth",
+      "testament": "Old",
+      "chapterCount": 4,
+      "verseCount": 85,
+      "path": "books/ruth.json",
+      "url": "https://app-developerz.github.io/data/books/ruth.json"
+    },
+    {
+      "order": 9,
+      "name": "1 Samuel",
+      "slug": "1-samuel",
+      "testament": "Old",
+      "chapterCount": 31,
+      "verseCount": 810,
+      "path": "books/1-samuel.json",
+      "url": "https://app-developerz.github.io/data/books/1-samuel.json"
+    },
+    {
+      "order": 10,
+      "name": "2 Samuel",
+      "slug": "2-samuel",
+      "testament": "Old",
+      "chapterCount": 24,
+      "verseCount": 695,
+      "path": "books/2-samuel.json",
+      "url": "https://app-developerz.github.io/data/books/2-samuel.json"
+    },
+    {
+      "order": 11,
+      "name": "1 Kings",
+      "slug": "1-kings",
+      "testament": "Old",
+      "chapterCount": 22,
+      "verseCount": 816,
+      "path": "books/1-kings.json",
+      "url": "https://app-developerz.github.io/data/books/1-kings.json"
+    },
+    {
+      "order": 12,
+      "name": "2 Kings",
+      "slug": "2-kings",
+      "testament": "Old",
+      "chapterCount": 25,
+      "verseCount": 719,
+      "path": "books/2-kings.json",
+      "url": "https://app-developerz.github.io/data/books/2-kings.json"
+    },
+    {
+      "order": 13,
+      "name": "1 Chronicles",
+      "slug": "1-chronicles",
+      "testament": "Old",
+      "chapterCount": 29,
+      "verseCount": 942,
+      "path": "books/1-chronicles.json",
+      "url": "https://app-developerz.github.io/data/books/1-chronicles.json"
+    },
+    {
+      "order": 14,
+      "name": "2 Chronicles",
+      "slug": "2-chronicles",
+      "testament": "Old",
+      "chapterCount": 36,
+      "verseCount": 822,
+      "path": "books/2-chronicles.json",
+      "url": "https://app-developerz.github.io/data/books/2-chronicles.json"
+    },
+    {
+      "order": 15,
+      "name": "Ezra",
+      "slug": "ezra",
+      "testament": "Old",
+      "chapterCount": 10,
+      "verseCount": 280,
+      "path": "books/ezra.json",
+      "url": "https://app-developerz.github.io/data/books/ezra.json"
+    },
+    {
+      "order": 16,
+      "name": "Nehemiah",
+      "slug": "nehemiah",
+      "testament": "Old",
+      "chapterCount": 13,
+      "verseCount": 406,
+      "path": "books/nehemiah.json",
+      "url": "https://app-developerz.github.io/data/books/nehemiah.json"
+    },
+    {
+      "order": 17,
+      "name": "Esther",
+      "slug": "esther",
+      "testament": "Old",
+      "chapterCount": 10,
+      "verseCount": 167,
+      "path": "books/esther.json",
+      "url": "https://app-developerz.github.io/data/books/esther.json"
+    },
+    {
+      "order": 18,
+      "name": "Job",
+      "slug": "job",
+      "testament": "Old",
+      "chapterCount": 42,
+      "verseCount": 1070,
+      "path": "books/job.json",
+      "url": "https://app-developerz.github.io/data/books/job.json"
+    },
+    {
+      "order": 19,
+      "name": "Psalms",
+      "slug": "psalms",
+      "testament": "Old",
+      "chapterCount": 150,
+      "verseCount": 2461,
+      "path": "books/psalms.json",
+      "url": "https://app-developerz.github.io/data/books/psalms.json"
+    },
+    {
+      "order": 20,
+      "name": "Proverbs",
+      "slug": "proverbs",
+      "testament": "Old",
+      "chapterCount": 31,
+      "verseCount": 915,
+      "path": "books/proverbs.json",
+      "url": "https://app-developerz.github.io/data/books/proverbs.json"
+    },
+    {
+      "order": 21,
+      "name": "Ecclesiastes",
+      "slug": "ecclesiastes",
+      "testament": "Old",
+      "chapterCount": 12,
+      "verseCount": 222,
+      "path": "books/ecclesiastes.json",
+      "url": "https://app-developerz.github.io/data/books/ecclesiastes.json"
+    },
+    {
+      "order": 22,
+      "name": "Song of Solomon",
+      "slug": "song-of-solomon",
+      "testament": "Old",
+      "chapterCount": 8,
+      "verseCount": 117,
+      "path": "books/song-of-solomon.json",
+      "url": "https://app-developerz.github.io/data/books/song-of-solomon.json"
+    },
+    {
+      "order": 23,
+      "name": "Isaiah",
+      "slug": "isaiah",
+      "testament": "Old",
+      "chapterCount": 66,
+      "verseCount": 1292,
+      "path": "books/isaiah.json",
+      "url": "https://app-developerz.github.io/data/books/isaiah.json"
+    },
+    {
+      "order": 24,
+      "name": "Jeremiah",
+      "slug": "jeremiah",
+      "testament": "Old",
+      "chapterCount": 52,
+      "verseCount": 1364,
+      "path": "books/jeremiah.json",
+      "url": "https://app-developerz.github.io/data/books/jeremiah.json"
+    },
+    {
+      "order": 25,
+      "name": "Lamentations",
+      "slug": "lamentations",
+      "testament": "Old",
+      "chapterCount": 5,
+      "verseCount": 154,
+      "path": "books/lamentations.json",
+      "url": "https://app-developerz.github.io/data/books/lamentations.json"
+    },
+    {
+      "order": 26,
+      "name": "Ezekiel",
+      "slug": "ezekiel",
+      "testament": "Old",
+      "chapterCount": 48,
+      "verseCount": 1273,
+      "path": "books/ezekiel.json",
+      "url": "https://app-developerz.github.io/data/books/ezekiel.json"
+    },
+    {
+      "order": 27,
+      "name": "Daniel",
+      "slug": "daniel",
+      "testament": "Old",
+      "chapterCount": 12,
+      "verseCount": 357,
+      "path": "books/daniel.json",
+      "url": "https://app-developerz.github.io/data/books/daniel.json"
+    },
+    {
+      "order": 28,
+      "name": "Hosea",
+      "slug": "hosea",
+      "testament": "Old",
+      "chapterCount": 14,
+      "verseCount": 197,
+      "path": "books/hosea.json",
+      "url": "https://app-developerz.github.io/data/books/hosea.json"
+    },
+    {
+      "order": 29,
+      "name": "Joel",
+      "slug": "joel",
+      "testament": "Old",
+      "chapterCount": 3,
+      "verseCount": 73,
+      "path": "books/joel.json",
+      "url": "https://app-developerz.github.io/data/books/joel.json"
+    },
+    {
+      "order": 30,
+      "name": "Amos",
+      "slug": "amos",
+      "testament": "Old",
+      "chapterCount": 9,
+      "verseCount": 146,
+      "path": "books/amos.json",
+      "url": "https://app-developerz.github.io/data/books/amos.json"
+    },
+    {
+      "order": 31,
+      "name": "Obadiah",
+      "slug": "obadiah",
+      "testament": "Old",
+      "chapterCount": 1,
+      "verseCount": 21,
+      "path": "books/obadiah.json",
+      "url": "https://app-developerz.github.io/data/books/obadiah.json"
+    },
+    {
+      "order": 32,
+      "name": "Jonah",
+      "slug": "jonah",
+      "testament": "Old",
+      "chapterCount": 4,
+      "verseCount": 48,
+      "path": "books/jonah.json",
+      "url": "https://app-developerz.github.io/data/books/jonah.json"
+    },
+    {
+      "order": 33,
+      "name": "Micah",
+      "slug": "micah",
+      "testament": "Old",
+      "chapterCount": 7,
+      "verseCount": 105,
+      "path": "books/micah.json",
+      "url": "https://app-developerz.github.io/data/books/micah.json"
+    },
+    {
+      "order": 34,
+      "name": "Nahum",
+      "slug": "nahum",
+      "testament": "Old",
+      "chapterCount": 3,
+      "verseCount": 47,
+      "path": "books/nahum.json",
+      "url": "https://app-developerz.github.io/data/books/nahum.json"
+    },
+    {
+      "order": 35,
+      "name": "Habakkuk",
+      "slug": "habakkuk",
+      "testament": "Old",
+      "chapterCount": 3,
+      "verseCount": 56,
+      "path": "books/habakkuk.json",
+      "url": "https://app-developerz.github.io/data/books/habakkuk.json"
+    },
+    {
+      "order": 36,
+      "name": "Zephaniah",
+      "slug": "zephaniah",
+      "testament": "Old",
+      "chapterCount": 3,
+      "verseCount": 53,
+      "path": "books/zephaniah.json",
+      "url": "https://app-developerz.github.io/data/books/zephaniah.json"
+    },
+    {
+      "order": 37,
+      "name": "Haggai",
+      "slug": "haggai",
+      "testament": "Old",
+      "chapterCount": 2,
+      "verseCount": 38,
+      "path": "books/haggai.json",
+      "url": "https://app-developerz.github.io/data/books/haggai.json"
+    },
+    {
+      "order": 38,
+      "name": "Zechariah",
+      "slug": "zechariah",
+      "testament": "Old",
+      "chapterCount": 14,
+      "verseCount": 211,
+      "path": "books/zechariah.json",
+      "url": "https://app-developerz.github.io/data/books/zechariah.json"
+    },
+    {
+      "order": 39,
+      "name": "Malachi",
+      "slug": "malachi",
+      "testament": "Old",
+      "chapterCount": 4,
+      "verseCount": 55,
+      "path": "books/malachi.json",
+      "url": "https://app-developerz.github.io/data/books/malachi.json"
+    },
+    {
+      "order": 40,
+      "name": "Matthew",
+      "slug": "matthew",
+      "testament": "New",
+      "chapterCount": 28,
+      "verseCount": 1071,
+      "path": "books/matthew.json",
+      "url": "https://app-developerz.github.io/data/books/matthew.json"
+    },
+    {
+      "order": 41,
+      "name": "Mark",
+      "slug": "mark",
+      "testament": "New",
+      "chapterCount": 16,
+      "verseCount": 678,
+      "path": "books/mark.json",
+      "url": "https://app-developerz.github.io/data/books/mark.json"
+    },
+    {
+      "order": 42,
+      "name": "Luke",
+      "slug": "luke",
+      "testament": "New",
+      "chapterCount": 24,
+      "verseCount": 1151,
+      "path": "books/luke.json",
+      "url": "https://app-developerz.github.io/data/books/luke.json"
+    },
+    {
+      "order": 43,
+      "name": "John",
+      "slug": "john",
+      "testament": "New",
+      "chapterCount": 21,
+      "verseCount": 879,
+      "path": "books/john.json",
+      "url": "https://app-developerz.github.io/data/books/john.json"
+    },
+    {
+      "order": 44,
+      "name": "Acts",
+      "slug": "acts",
+      "testament": "New",
+      "chapterCount": 28,
+      "verseCount": 1007,
+      "path": "books/acts.json",
+      "url": "https://app-developerz.github.io/data/books/acts.json"
+    },
+    {
+      "order": 45,
+      "name": "Romans",
+      "slug": "romans",
+      "testament": "New",
+      "chapterCount": 16,
+      "verseCount": 433,
+      "path": "books/romans.json",
+      "url": "https://app-developerz.github.io/data/books/romans.json"
+    },
+    {
+      "order": 46,
+      "name": "1 Corinthians",
+      "slug": "1-corinthians",
+      "testament": "New",
+      "chapterCount": 16,
+      "verseCount": 437,
+      "path": "books/1-corinthians.json",
+      "url": "https://app-developerz.github.io/data/books/1-corinthians.json"
+    },
+    {
+      "order": 47,
+      "name": "2 Corinthians",
+      "slug": "2-corinthians",
+      "testament": "New",
+      "chapterCount": 13,
+      "verseCount": 257,
+      "path": "books/2-corinthians.json",
+      "url": "https://app-developerz.github.io/data/books/2-corinthians.json"
+    },
+    {
+      "order": 48,
+      "name": "Galatians",
+      "slug": "galatians",
+      "testament": "New",
+      "chapterCount": 6,
+      "verseCount": 149,
+      "path": "books/galatians.json",
+      "url": "https://app-developerz.github.io/data/books/galatians.json"
+    },
+    {
+      "order": 49,
+      "name": "Ephesians",
+      "slug": "ephesians",
+      "testament": "New",
+      "chapterCount": 6,
+      "verseCount": 155,
+      "path": "books/ephesians.json",
+      "url": "https://app-developerz.github.io/data/books/ephesians.json"
+    },
+    {
+      "order": 50,
+      "name": "Philippians",
+      "slug": "philippians",
+      "testament": "New",
+      "chapterCount": 4,
+      "verseCount": 104,
+      "path": "books/philippians.json",
+      "url": "https://app-developerz.github.io/data/books/philippians.json"
+    },
+    {
+      "order": 51,
+      "name": "Colossians",
+      "slug": "colossians",
+      "testament": "New",
+      "chapterCount": 4,
+      "verseCount": 95,
+      "path": "books/colossians.json",
+      "url": "https://app-developerz.github.io/data/books/colossians.json"
+    },
+    {
+      "order": 52,
+      "name": "1 Thessalonians",
+      "slug": "1-thessalonians",
+      "testament": "New",
+      "chapterCount": 5,
+      "verseCount": 89,
+      "path": "books/1-thessalonians.json",
+      "url": "https://app-developerz.github.io/data/books/1-thessalonians.json"
+    },
+    {
+      "order": 53,
+      "name": "2 Thessalonians",
+      "slug": "2-thessalonians",
+      "testament": "New",
+      "chapterCount": 3,
+      "verseCount": 47,
+      "path": "books/2-thessalonians.json",
+      "url": "https://app-developerz.github.io/data/books/2-thessalonians.json"
+    },
+    {
+      "order": 54,
+      "name": "1 Timothy",
+      "slug": "1-timothy",
+      "testament": "New",
+      "chapterCount": 6,
+      "verseCount": 113,
+      "path": "books/1-timothy.json",
+      "url": "https://app-developerz.github.io/data/books/1-timothy.json"
+    },
+    {
+      "order": 55,
+      "name": "2 Timothy",
+      "slug": "2-timothy",
+      "testament": "New",
+      "chapterCount": 4,
+      "verseCount": 83,
+      "path": "books/2-timothy.json",
+      "url": "https://app-developerz.github.io/data/books/2-timothy.json"
+    },
+    {
+      "order": 56,
+      "name": "Titus",
+      "slug": "titus",
+      "testament": "New",
+      "chapterCount": 3,
+      "verseCount": 46,
+      "path": "books/titus.json",
+      "url": "https://app-developerz.github.io/data/books/titus.json"
+    },
+    {
+      "order": 57,
+      "name": "Philemon",
+      "slug": "philemon",
+      "testament": "New",
+      "chapterCount": 1,
+      "verseCount": 25,
+      "path": "books/philemon.json",
+      "url": "https://app-developerz.github.io/data/books/philemon.json"
+    },
+    {
+      "order": 58,
+      "name": "Hebrews",
+      "slug": "hebrews",
+      "testament": "New",
+      "chapterCount": 13,
+      "verseCount": 303,
+      "path": "books/hebrews.json",
+      "url": "https://app-developerz.github.io/data/books/hebrews.json"
+    },
+    {
+      "order": 59,
+      "name": "James",
+      "slug": "james",
+      "testament": "New",
+      "chapterCount": 5,
+      "verseCount": 108,
+      "path": "books/james.json",
+      "url": "https://app-developerz.github.io/data/books/james.json"
+    },
+    {
+      "order": 60,
+      "name": "1 Peter",
+      "slug": "1-peter",
+      "testament": "New",
+      "chapterCount": 5,
+      "verseCount": 105,
+      "path": "books/1-peter.json",
+      "url": "https://app-developerz.github.io/data/books/1-peter.json"
+    },
+    {
+      "order": 61,
+      "name": "2 Peter",
+      "slug": "2-peter",
+      "testament": "New",
+      "chapterCount": 3,
+      "verseCount": 61,
+      "path": "books/2-peter.json",
+      "url": "https://app-developerz.github.io/data/books/2-peter.json"
+    },
+    {
+      "order": 62,
+      "name": "1 John",
+      "slug": "1-john",
+      "testament": "New",
+      "chapterCount": 5,
+      "verseCount": 105,
+      "path": "books/1-john.json",
+      "url": "https://app-developerz.github.io/data/books/1-john.json"
+    },
+    {
+      "order": 63,
+      "name": "2 John",
+      "slug": "2-john",
+      "testament": "New",
+      "chapterCount": 1,
+      "verseCount": 13,
+      "path": "books/2-john.json",
+      "url": "https://app-developerz.github.io/data/books/2-john.json"
+    },
+    {
+      "order": 64,
+      "name": "3 John",
+      "slug": "3-john",
+      "testament": "New",
+      "chapterCount": 1,
+      "verseCount": 14,
+      "path": "books/3-john.json",
+      "url": "https://app-developerz.github.io/data/books/3-john.json"
+    },
+    {
+      "order": 65,
+      "name": "Jude",
+      "slug": "jude",
+      "testament": "New",
+      "chapterCount": 1,
+      "verseCount": 25,
+      "path": "books/jude.json",
+      "url": "https://app-developerz.github.io/data/books/jude.json"
+    },
+    {
+      "order": 66,
+      "name": "Revelation",
+      "slug": "revelation",
+      "testament": "New",
+      "chapterCount": 22,
+      "verseCount": 404,
+      "path": "books/revelation.json",
+      "url": "https://app-developerz.github.io/data/books/revelation.json"
+    }
+  ]
+}

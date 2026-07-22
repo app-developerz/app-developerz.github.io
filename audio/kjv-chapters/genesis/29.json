@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 29,
+  "verseCount": 35,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/29.mp3",
+  "durationSeconds": 234.57,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 29:1",
+      "startSeconds": 0.0,
+      "endSeconds": 4.092,
+      "durationSeconds": 4.092
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 29:2",
+      "startSeconds": 4.272,
+      "endSeconds": 14.094,
+      "durationSeconds": 9.821
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 29:3",
+      "startSeconds": 14.274,
+      "endSeconds": 21.927,
+      "durationSeconds": 7.654
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 29:4",
+      "startSeconds": 22.107,
+      "endSeconds": 28.38,
+      "durationSeconds": 6.272
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 29:5",
+      "startSeconds": 28.56,
+      "endSeconds": 33.513,
+      "durationSeconds": 4.953
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 29:6",
+      "startSeconds": 33.693,
+      "endSeconds": 40.747,
+      "durationSeconds": 7.054
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 29:7",
+      "startSeconds": 40.927,
+      "endSeconds": 49.318,
+      "durationSeconds": 8.391
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 29:8",
+      "startSeconds": 49.498,
+      "endSeconds": 57.063,
+      "durationSeconds": 7.566
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 29:9",
+      "startSeconds": 57.243,
+      "endSeconds": 61.615,
+      "durationSeconds": 4.371
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 29:10",
+      "startSeconds": 61.795,
+      "endSeconds": 73.382,
+      "durationSeconds": 11.587
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 29:11",
+      "startSeconds": 73.562,
+      "endSeconds": 77.074,
+      "durationSeconds": 3.512
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 29:12",
+      "startSeconds": 77.254,
+      "endSeconds": 84.258,
+      "durationSeconds": 7.004
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 29:13",
+      "startSeconds": 84.438,
+      "endSeconds": 94.664,
+      "durationSeconds": 10.226
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 29:14",
+      "startSeconds": 94.844,
+      "endSeconds": 100.881,
+      "durationSeconds": 6.037
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 29:15",
+      "startSeconds": 101.061,
+      "endSeconds": 109.291,
+      "durationSeconds": 8.23
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 29:16",
+      "startSeconds": 109.472,
+      "endSeconds": 115.517,
+      "durationSeconds": 6.046
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 29:17",
+      "startSeconds": 115.697,
+      "endSeconds": 119.605,
+      "durationSeconds": 3.908
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 29:18",
+      "startSeconds": 119.785,
+      "endSeconds": 124.78,
+      "durationSeconds": 4.995
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 29:19",
+      "startSeconds": 124.96,
+      "endSeconds": 130.724,
+      "durationSeconds": 5.764
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 29:20",
+      "startSeconds": 130.904,
+      "endSeconds": 136.843,
+      "durationSeconds": 5.939
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 29:21",
+      "startSeconds": 137.023,
+      "endSeconds": 142.631,
+      "durationSeconds": 5.607
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 29:22",
+      "startSeconds": 142.811,
+      "endSeconds": 146.508,
+      "durationSeconds": 3.698
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 29:23",
+      "startSeconds": 146.688,
+      "endSeconds": 152.256,
+      "durationSeconds": 5.568
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 29:24",
+      "startSeconds": 152.436,
+      "endSeconds": 156.639,
+      "durationSeconds": 4.203
+    },
+    {
+      "verseIndex": 24,
+      "verse": 25,
+      "reference": "Genesis 29:25",
+      "startSeconds": 156.819,
+      "endSeconds": 168.078,
+      "durationSeconds": 11.26
+    },
+    {
+      "verseIndex": 25,
+      "verse": 26,
+      "reference": "Genesis 29:26",
+      "startSeconds": 168.258,
+      "endSeconds": 173.182,
+      "durationSeconds": 4.923
+    },
+    {
+      "verseIndex": 26,
+      "verse": 27,
+      "reference": "Genesis 29:27",
+      "startSeconds": 173.362,
+      "endSeconds": 179.101,
+      "durationSeconds": 5.739
+    },
+    {
+      "verseIndex": 27,
+      "verse": 28,
+      "reference": "Genesis 29:28",
+      "startSeconds": 179.281,
+      "endSeconds": 184.129,
+      "durationSeconds": 4.848
+    },
+    {
+      "verseIndex": 28,
+      "verse": 29,
+      "reference": "Genesis 29:29",
+      "startSeconds": 184.309,
+      "endSeconds": 188.165,
+      "durationSeconds": 3.856
+    },
+    {
+      "verseIndex": 29,
+      "verse": 30,
+      "reference": "Genesis 29:30",
+      "startSeconds": 188.345,
+      "endSeconds": 194.299,
+      "durationSeconds": 5.954
+    },
+    {
+      "verseIndex": 30,
+      "verse": 31,
+      "reference": "Genesis 29:31",
+      "startSeconds": 194.479,
+      "endSeconds": 199.893,
+      "durationSeconds": 5.414
+    },
+    {
+      "verseIndex": 31,
+      "verse": 32,
+      "reference": "Genesis 29:32",
+      "startSeconds": 200.073,
+      "endSeconds": 208.646,
+      "durationSeconds": 8.572
+    },
+    {
+      "verseIndex": 32,
+      "verse": 33,
+      "reference": "Genesis 29:33",
+      "startSeconds": 208.826,
+      "endSeconds": 218.333,
+      "durationSeconds": 9.507
+    },
+    {
+      "verseIndex": 33,
+      "verse": 34,
+      "reference": "Genesis 29:34",
+      "startSeconds": 218.513,
+      "endSeconds": 227.272,
+      "durationSeconds": 8.758
+    },
+    {
+      "verseIndex": 34,
+      "verse": 35,
+      "reference": "Genesis 29:35",
+      "startSeconds": 227.452,
+      "endSeconds": 234.57,
+      "durationSeconds": 7.119
+    }
+  ]
+}

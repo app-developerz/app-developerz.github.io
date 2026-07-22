@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 8,
+  "verseCount": 22,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/8.mp3",
+  "durationSeconds": 155.928,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 8:1",
+      "startSeconds": 0.0,
+      "endSeconds": 8.578,
+      "durationSeconds": 8.578
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 8:2",
+      "startSeconds": 8.758,
+      "endSeconds": 14.113,
+      "durationSeconds": 5.355
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 8:3",
+      "startSeconds": 14.293,
+      "endSeconds": 20.646,
+      "durationSeconds": 6.352
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 8:4",
+      "startSeconds": 20.826,
+      "endSeconds": 26.23,
+      "durationSeconds": 5.404
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 8:5",
+      "startSeconds": 26.41,
+      "endSeconds": 33.891,
+      "durationSeconds": 7.481
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 8:6",
+      "startSeconds": 34.071,
+      "endSeconds": 39.168,
+      "durationSeconds": 5.098
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 8:7",
+      "startSeconds": 39.348,
+      "endSeconds": 44.798,
+      "durationSeconds": 5.45
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 8:8",
+      "startSeconds": 44.978,
+      "endSeconds": 50.081,
+      "durationSeconds": 5.103
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 8:9",
+      "startSeconds": 50.261,
+      "endSeconds": 61.575,
+      "durationSeconds": 11.314
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 8:10",
+      "startSeconds": 61.755,
+      "endSeconds": 65.995,
+      "durationSeconds": 4.24
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 8:11",
+      "startSeconds": 66.175,
+      "endSeconds": 74.251,
+      "durationSeconds": 8.077
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 8:12",
+      "startSeconds": 74.431,
+      "endSeconds": 79.761,
+      "durationSeconds": 5.33
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 8:13",
+      "startSeconds": 79.941,
+      "endSeconds": 92.424,
+      "durationSeconds": 12.482
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 8:14",
+      "startSeconds": 92.603,
+      "endSeconds": 97.105,
+      "durationSeconds": 4.501
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 8:15",
+      "startSeconds": 97.285,
+      "endSeconds": 99.389,
+      "durationSeconds": 2.105
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 8:16",
+      "startSeconds": 99.569,
+      "endSeconds": 104.186,
+      "durationSeconds": 4.617
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 8:17",
+      "startSeconds": 104.366,
+      "endSeconds": 117.163,
+      "durationSeconds": 12.797
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 8:18",
+      "startSeconds": 117.343,
+      "endSeconds": 121.608,
+      "durationSeconds": 4.265
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 8:19",
+      "startSeconds": 121.788,
+      "endSeconds": 129.298,
+      "durationSeconds": 7.51
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 8:20",
+      "startSeconds": 129.478,
+      "endSeconds": 136.606,
+      "durationSeconds": 7.128
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 8:21",
+      "startSeconds": 136.786,
+      "endSeconds": 149.509,
+      "durationSeconds": 12.723
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 8:22",
+      "startSeconds": 149.689,
+      "endSeconds": 155.928,
+      "durationSeconds": 6.239
+    }
+  ]
+}

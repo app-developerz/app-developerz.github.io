@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 38,
+  "verseCount": 30,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/38.mp3",
+  "durationSeconds": 228.587,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 38:1",
+      "startSeconds": 0.0,
+      "endSeconds": 7.277,
+      "durationSeconds": 7.277
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 38:2",
+      "startSeconds": 7.457,
+      "endSeconds": 13.867,
+      "durationSeconds": 6.41
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 38:3",
+      "startSeconds": 14.047,
+      "endSeconds": 17.49,
+      "durationSeconds": 3.443
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 38:4",
+      "startSeconds": 17.67,
+      "endSeconds": 21.49,
+      "durationSeconds": 3.82
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 38:5",
+      "startSeconds": 21.67,
+      "endSeconds": 27.347,
+      "durationSeconds": 5.677
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 38:6",
+      "startSeconds": 27.527,
+      "endSeconds": 31.693,
+      "durationSeconds": 4.166
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 38:7",
+      "startSeconds": 31.873,
+      "endSeconds": 36.593,
+      "durationSeconds": 4.721
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 38:8",
+      "startSeconds": 36.773,
+      "endSeconds": 42.303,
+      "durationSeconds": 5.529
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 38:9",
+      "startSeconds": 42.483,
+      "endSeconds": 51.509,
+      "durationSeconds": 9.026
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 38:10",
+      "startSeconds": 51.689,
+      "endSeconds": 55.505,
+      "durationSeconds": 3.816
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 38:11",
+      "startSeconds": 55.685,
+      "endSeconds": 68.128,
+      "durationSeconds": 12.443
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 38:12",
+      "startSeconds": 68.308,
+      "endSeconds": 76.882,
+      "durationSeconds": 8.574
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 38:13",
+      "startSeconds": 77.062,
+      "endSeconds": 82.121,
+      "durationSeconds": 5.059
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 38:14",
+      "startSeconds": 82.301,
+      "endSeconds": 93.807,
+      "durationSeconds": 11.506
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 38:15",
+      "startSeconds": 93.987,
+      "endSeconds": 98.666,
+      "durationSeconds": 4.679
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 38:16",
+      "startSeconds": 98.846,
+      "endSeconds": 109.875,
+      "durationSeconds": 11.028
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 38:17",
+      "startSeconds": 110.055,
+      "endSeconds": 117.448,
+      "durationSeconds": 7.394
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 38:18",
+      "startSeconds": 117.628,
+      "endSeconds": 128.562,
+      "durationSeconds": 10.934
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 38:19",
+      "startSeconds": 128.742,
+      "endSeconds": 134.191,
+      "durationSeconds": 5.449
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 38:20",
+      "startSeconds": 134.371,
+      "endSeconds": 141.396,
+      "durationSeconds": 7.024
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 38:21",
+      "startSeconds": 141.576,
+      "endSeconds": 150.59,
+      "durationSeconds": 9.015
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 38:22",
+      "startSeconds": 150.77,
+      "endSeconds": 157.797,
+      "durationSeconds": 7.027
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 38:23",
+      "startSeconds": 157.977,
+      "endSeconds": 164.62,
+      "durationSeconds": 6.643
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 38:24",
+      "startSeconds": 164.8,
+      "endSeconds": 177.357,
+      "durationSeconds": 12.558
+    },
+    {
+      "verseIndex": 24,
+      "verse": 25,
+      "reference": "Genesis 38:25",
+      "startSeconds": 177.537,
+      "endSeconds": 189.817,
+      "durationSeconds": 12.28
+    },
+    {
+      "verseIndex": 25,
+      "verse": 26,
+      "reference": "Genesis 38:26",
+      "startSeconds": 189.997,
+      "endSeconds": 197.868,
+      "durationSeconds": 7.871
+    },
+    {
+      "verseIndex": 26,
+      "verse": 27,
+      "reference": "Genesis 38:27",
+      "startSeconds": 198.048,
+      "endSeconds": 203.066,
+      "durationSeconds": 5.018
+    },
+    {
+      "verseIndex": 27,
+      "verse": 28,
+      "reference": "Genesis 38:28",
+      "startSeconds": 203.246,
+      "endSeconds": 212.003,
+      "durationSeconds": 8.757
+    },
+    {
+      "verseIndex": 28,
+      "verse": 29,
+      "reference": "Genesis 38:29",
+      "startSeconds": 212.183,
+      "endSeconds": 222.942,
+      "durationSeconds": 10.759
+    },
+    {
+      "verseIndex": 29,
+      "verse": 30,
+      "reference": "Genesis 38:30",
+      "startSeconds": 223.122,
+      "endSeconds": 228.587,
+      "durationSeconds": 5.465
+    }
+  ]
+}

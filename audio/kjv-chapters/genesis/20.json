@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 20,
+  "verseCount": 18,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/20.mp3",
+  "durationSeconds": 146.431,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 20:1",
+      "startSeconds": 0.0,
+      "endSeconds": 6.177,
+      "durationSeconds": 6.177
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 20:2",
+      "startSeconds": 6.357,
+      "endSeconds": 12.73,
+      "durationSeconds": 6.372
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 20:3",
+      "startSeconds": 12.91,
+      "endSeconds": 22.017,
+      "durationSeconds": 9.107
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 20:4",
+      "startSeconds": 22.197,
+      "endSeconds": 27.6,
+      "durationSeconds": 5.403
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 20:5",
+      "startSeconds": 27.78,
+      "endSeconds": 37.72,
+      "durationSeconds": 9.941
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 20:6",
+      "startSeconds": 37.9,
+      "endSeconds": 46.976,
+      "durationSeconds": 9.075
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 20:7",
+      "startSeconds": 47.156,
+      "endSeconds": 58.741,
+      "durationSeconds": 11.585
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 20:8",
+      "startSeconds": 58.921,
+      "endSeconds": 65.948,
+      "durationSeconds": 7.028
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 20:9",
+      "startSeconds": 66.128,
+      "endSeconds": 78.08,
+      "durationSeconds": 11.951
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 20:10",
+      "startSeconds": 78.26,
+      "endSeconds": 82.735,
+      "durationSeconds": 4.476
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 20:11",
+      "startSeconds": 82.915,
+      "endSeconds": 89.418,
+      "durationSeconds": 6.503
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 20:12",
+      "startSeconds": 89.598,
+      "endSeconds": 96.756,
+      "durationSeconds": 7.158
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 20:13",
+      "startSeconds": 96.936,
+      "endSeconds": 108.264,
+      "durationSeconds": 11.329
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 20:14",
+      "startSeconds": 108.444,
+      "endSeconds": 116.504,
+      "durationSeconds": 8.06
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 20:15",
+      "startSeconds": 116.684,
+      "endSeconds": 121.737,
+      "durationSeconds": 5.053
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 20:16",
+      "startSeconds": 121.917,
+      "endSeconds": 134.003,
+      "durationSeconds": 12.086
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 20:17",
+      "startSeconds": 134.183,
+      "endSeconds": 140.812,
+      "durationSeconds": 6.63
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 20:18",
+      "startSeconds": 140.992,
+      "endSeconds": 146.431,
+      "durationSeconds": 5.438
+    }
+  ]
+}

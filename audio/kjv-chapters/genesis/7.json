@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 7,
+  "verseCount": 24,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/7.mp3",
+  "durationSeconds": 157.332,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 7:1",
+      "startSeconds": 0.0,
+      "endSeconds": 6.18,
+      "durationSeconds": 6.18
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 7:2",
+      "startSeconds": 6.36,
+      "endSeconds": 14.051,
+      "durationSeconds": 7.691
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 7:3",
+      "startSeconds": 14.231,
+      "endSeconds": 20.106,
+      "durationSeconds": 5.875
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 7:4",
+      "startSeconds": 20.286,
+      "endSeconds": 28.624,
+      "durationSeconds": 8.338
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 7:5",
+      "startSeconds": 28.804,
+      "endSeconds": 31.964,
+      "durationSeconds": 3.16
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 7:6",
+      "startSeconds": 32.144,
+      "endSeconds": 36.586,
+      "durationSeconds": 4.443
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 7:7",
+      "startSeconds": 36.766,
+      "endSeconds": 43.358,
+      "durationSeconds": 6.592
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 7:8",
+      "startSeconds": 43.538,
+      "endSeconds": 49.772,
+      "durationSeconds": 6.234
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 7:9",
+      "startSeconds": 49.952,
+      "endSeconds": 55.362,
+      "durationSeconds": 5.409
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 7:10",
+      "startSeconds": 55.542,
+      "endSeconds": 59.893,
+      "durationSeconds": 4.351
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 7:11",
+      "startSeconds": 60.073,
+      "endSeconds": 69.228,
+      "durationSeconds": 9.155
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 7:12",
+      "startSeconds": 69.408,
+      "endSeconds": 72.659,
+      "durationSeconds": 3.251
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 7:13",
+      "startSeconds": 72.839,
+      "endSeconds": 81.168,
+      "durationSeconds": 8.329
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 7:14",
+      "startSeconds": 81.348,
+      "endSeconds": 91.427,
+      "durationSeconds": 10.079
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 7:15",
+      "startSeconds": 91.607,
+      "endSeconds": 96.877,
+      "durationSeconds": 5.27
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 7:16",
+      "startSeconds": 97.057,
+      "endSeconds": 102.92,
+      "durationSeconds": 5.863
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 7:17",
+      "startSeconds": 103.1,
+      "endSeconds": 109.259,
+      "durationSeconds": 6.159
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 7:18",
+      "startSeconds": 109.439,
+      "endSeconds": 115.16,
+      "durationSeconds": 5.721
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 7:19",
+      "startSeconds": 115.34,
+      "endSeconds": 121.903,
+      "durationSeconds": 6.564
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 7:20",
+      "startSeconds": 122.083,
+      "endSeconds": 126.213,
+      "durationSeconds": 4.13
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 7:21",
+      "startSeconds": 126.393,
+      "endSeconds": 134.576,
+      "durationSeconds": 8.183
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 7:22",
+      "startSeconds": 134.756,
+      "endSeconds": 140.398,
+      "durationSeconds": 5.642
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 7:23",
+      "startSeconds": 140.578,
+      "endSeconds": 153.668,
+      "durationSeconds": 13.09
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 7:24",
+      "startSeconds": 153.848,
+      "endSeconds": 157.332,
+      "durationSeconds": 3.485
+    }
+  ]
+}

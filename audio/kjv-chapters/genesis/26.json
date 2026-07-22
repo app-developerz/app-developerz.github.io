@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 26,
+  "verseCount": 35,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/26.mp3",
+  "durationSeconds": 242.995,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 26:1",
+      "startSeconds": 0.0,
+      "endSeconds": 8.592,
+      "durationSeconds": 8.592
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 26:2",
+      "startSeconds": 8.772,
+      "endSeconds": 14.358,
+      "durationSeconds": 5.586
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 26:3",
+      "startSeconds": 14.538,
+      "endSeconds": 24.425,
+      "durationSeconds": 9.887
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 26:4",
+      "startSeconds": 24.605,
+      "endSeconds": 32.811,
+      "durationSeconds": 8.206
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 26:5",
+      "startSeconds": 32.991,
+      "endSeconds": 38.891,
+      "durationSeconds": 5.9
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 26:6",
+      "startSeconds": 39.071,
+      "endSeconds": 40.864,
+      "durationSeconds": 1.793
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 26:7",
+      "startSeconds": 41.044,
+      "endSeconds": 53.33,
+      "durationSeconds": 12.286
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 26:8",
+      "startSeconds": 53.51,
+      "endSeconds": 63.567,
+      "durationSeconds": 10.057
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 26:9",
+      "startSeconds": 63.747,
+      "endSeconds": 74.476,
+      "durationSeconds": 10.728
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 26:10",
+      "startSeconds": 74.656,
+      "endSeconds": 83.491,
+      "durationSeconds": 8.836
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 26:11",
+      "startSeconds": 83.671,
+      "endSeconds": 89.876,
+      "durationSeconds": 6.205
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 26:12",
+      "startSeconds": 90.056,
+      "endSeconds": 95.134,
+      "durationSeconds": 5.078
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 26:13",
+      "startSeconds": 95.314,
+      "endSeconds": 99.723,
+      "durationSeconds": 4.409
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 26:14",
+      "startSeconds": 99.903,
+      "endSeconds": 105.786,
+      "durationSeconds": 5.883
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 26:15",
+      "startSeconds": 105.966,
+      "endSeconds": 113.098,
+      "durationSeconds": 7.132
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 26:16",
+      "startSeconds": 113.278,
+      "endSeconds": 117.511,
+      "durationSeconds": 4.233
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 26:17",
+      "startSeconds": 117.691,
+      "endSeconds": 122.312,
+      "durationSeconds": 4.621
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 26:18",
+      "startSeconds": 122.492,
+      "endSeconds": 133.6,
+      "durationSeconds": 11.108
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 26:19",
+      "startSeconds": 133.78,
+      "endSeconds": 137.966,
+      "durationSeconds": 4.187
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 26:20",
+      "startSeconds": 138.147,
+      "endSeconds": 146.203,
+      "durationSeconds": 8.056
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 26:21",
+      "startSeconds": 146.383,
+      "endSeconds": 150.818,
+      "durationSeconds": 4.435
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 26:22",
+      "startSeconds": 150.998,
+      "endSeconds": 161.041,
+      "durationSeconds": 10.043
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 26:23",
+      "startSeconds": 161.221,
+      "endSeconds": 163.351,
+      "durationSeconds": 2.131
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 26:24",
+      "startSeconds": 163.531,
+      "endSeconds": 174.511,
+      "durationSeconds": 10.979
+    },
+    {
+      "verseIndex": 24,
+      "verse": 25,
+      "reference": "Genesis 26:25",
+      "startSeconds": 174.691,
+      "endSeconds": 181.173,
+      "durationSeconds": 6.483
+    },
+    {
+      "verseIndex": 25,
+      "verse": 26,
+      "reference": "Genesis 26:26",
+      "startSeconds": 181.353,
+      "endSeconds": 187.308,
+      "durationSeconds": 5.954
+    },
+    {
+      "verseIndex": 26,
+      "verse": 27,
+      "reference": "Genesis 26:27",
+      "startSeconds": 187.488,
+      "endSeconds": 192.832,
+      "durationSeconds": 5.345
+    },
+    {
+      "verseIndex": 27,
+      "verse": 28,
+      "reference": "Genesis 26:28",
+      "startSeconds": 193.012,
+      "endSeconds": 201.749,
+      "durationSeconds": 8.737
+    },
+    {
+      "verseIndex": 28,
+      "verse": 29,
+      "reference": "Genesis 26:29",
+      "startSeconds": 201.929,
+      "endSeconds": 210.599,
+      "durationSeconds": 8.67
+    },
+    {
+      "verseIndex": 29,
+      "verse": 30,
+      "reference": "Genesis 26:30",
+      "startSeconds": 210.779,
+      "endSeconds": 213.498,
+      "durationSeconds": 2.718
+    },
+    {
+      "verseIndex": 30,
+      "verse": 31,
+      "reference": "Genesis 26:31",
+      "startSeconds": 213.678,
+      "endSeconds": 220.055,
+      "durationSeconds": 6.378
+    },
+    {
+      "verseIndex": 31,
+      "verse": 32,
+      "reference": "Genesis 26:32",
+      "startSeconds": 220.236,
+      "endSeconds": 227.906,
+      "durationSeconds": 7.671
+    },
+    {
+      "verseIndex": 32,
+      "verse": 33,
+      "reference": "Genesis 26:33",
+      "startSeconds": 228.086,
+      "endSeconds": 232.85,
+      "durationSeconds": 4.763
+    },
+    {
+      "verseIndex": 33,
+      "verse": 34,
+      "reference": "Genesis 26:34",
+      "startSeconds": 233.03,
+      "endSeconds": 239.854,
+      "durationSeconds": 6.825
+    },
+    {
+      "verseIndex": 34,
+      "verse": 35,
+      "reference": "Genesis 26:35",
+      "startSeconds": 240.034,
+      "endSeconds": 242.995,
+      "durationSeconds": 2.961
+    }
+  ]
+}

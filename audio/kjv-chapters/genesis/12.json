@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 12,
+  "verseCount": 20,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/12.mp3",
+  "durationSeconds": 146.026,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 12:1",
+      "startSeconds": 0.0,
+      "endSeconds": 7.333,
+      "durationSeconds": 7.333
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 12:2",
+      "startSeconds": 7.513,
+      "endSeconds": 12.932,
+      "durationSeconds": 5.419
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 12:3",
+      "startSeconds": 13.112,
+      "endSeconds": 18.838,
+      "durationSeconds": 5.726
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 12:4",
+      "startSeconds": 19.018,
+      "endSeconds": 27.31,
+      "durationSeconds": 8.292
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 12:5",
+      "startSeconds": 27.49,
+      "endSeconds": 38.852,
+      "durationSeconds": 11.362
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 12:6",
+      "startSeconds": 39.032,
+      "endSeconds": 46.07,
+      "durationSeconds": 7.038
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 12:7",
+      "startSeconds": 46.25,
+      "endSeconds": 53.837,
+      "durationSeconds": 7.587
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 12:8",
+      "startSeconds": 54.017,
+      "endSeconds": 65.045,
+      "durationSeconds": 11.028
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 12:9",
+      "startSeconds": 65.225,
+      "endSeconds": 68.038,
+      "durationSeconds": 2.813
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 12:10",
+      "startSeconds": 68.218,
+      "endSeconds": 74.93,
+      "durationSeconds": 6.711
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 12:11",
+      "startSeconds": 75.11,
+      "endSeconds": 83.514,
+      "durationSeconds": 8.404
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 12:12",
+      "startSeconds": 83.694,
+      "endSeconds": 91.579,
+      "durationSeconds": 7.885
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 12:13",
+      "startSeconds": 91.759,
+      "endSeconds": 98.013,
+      "durationSeconds": 6.255
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 12:14",
+      "startSeconds": 98.193,
+      "endSeconds": 104.889,
+      "durationSeconds": 6.695
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 12:15",
+      "startSeconds": 105.069,
+      "endSeconds": 110.9,
+      "durationSeconds": 5.831
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 12:16",
+      "startSeconds": 111.08,
+      "endSeconds": 119.125,
+      "durationSeconds": 8.046
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 12:17",
+      "startSeconds": 119.305,
+      "endSeconds": 123.883,
+      "durationSeconds": 4.578
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 12:18",
+      "startSeconds": 124.063,
+      "endSeconds": 131.961,
+      "durationSeconds": 7.898
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 12:19",
+      "startSeconds": 132.141,
+      "endSeconds": 139.88,
+      "durationSeconds": 7.739
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 12:20",
+      "startSeconds": 140.06,
+      "endSeconds": 146.026,
+      "durationSeconds": 5.966
+    }
+  ]
+}

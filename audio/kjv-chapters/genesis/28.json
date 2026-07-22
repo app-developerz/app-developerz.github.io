@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 28,
+  "verseCount": 22,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/28.mp3",
+  "durationSeconds": 164.799,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 28:1",
+      "startSeconds": 0.0,
+      "endSeconds": 6.63,
+      "durationSeconds": 6.63
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 28:2",
+      "startSeconds": 6.81,
+      "endSeconds": 14.162,
+      "durationSeconds": 7.352
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 28:3",
+      "startSeconds": 14.342,
+      "endSeconds": 20.217,
+      "durationSeconds": 5.875
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 28:4",
+      "startSeconds": 20.397,
+      "endSeconds": 28.649,
+      "durationSeconds": 8.252
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 28:5",
+      "startSeconds": 28.829,
+      "endSeconds": 36.911,
+      "durationSeconds": 8.082
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 28:6",
+      "startSeconds": 37.091,
+      "endSeconds": 47.868,
+      "durationSeconds": 10.777
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 28:7",
+      "startSeconds": 48.048,
+      "endSeconds": 52.133,
+      "durationSeconds": 4.085
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 28:8",
+      "startSeconds": 52.313,
+      "endSeconds": 56.109,
+      "durationSeconds": 3.796
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 28:9",
+      "startSeconds": 56.289,
+      "endSeconds": 64.475,
+      "durationSeconds": 8.186
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 28:10",
+      "startSeconds": 64.655,
+      "endSeconds": 67.882,
+      "durationSeconds": 3.227
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 28:11",
+      "startSeconds": 68.062,
+      "endSeconds": 77.862,
+      "durationSeconds": 9.8
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 28:12",
+      "startSeconds": 78.042,
+      "endSeconds": 85.628,
+      "durationSeconds": 7.586
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 28:13",
+      "startSeconds": 85.808,
+      "endSeconds": 95.827,
+      "durationSeconds": 10.02
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 28:14",
+      "startSeconds": 96.007,
+      "endSeconds": 106.046,
+      "durationSeconds": 10.038
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 28:15",
+      "startSeconds": 106.226,
+      "endSeconds": 117.327,
+      "durationSeconds": 11.101
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 28:16",
+      "startSeconds": 117.507,
+      "endSeconds": 123.187,
+      "durationSeconds": 5.68
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 28:17",
+      "startSeconds": 123.367,
+      "endSeconds": 131.539,
+      "durationSeconds": 8.172
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 28:18",
+      "startSeconds": 131.719,
+      "endSeconds": 140.174,
+      "durationSeconds": 8.456
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 28:19",
+      "startSeconds": 140.355,
+      "endSeconds": 145.487,
+      "durationSeconds": 5.132
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 28:20",
+      "startSeconds": 145.667,
+      "endSeconds": 153.271,
+      "durationSeconds": 7.605
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 28:21",
+      "startSeconds": 153.451,
+      "endSeconds": 157.625,
+      "durationSeconds": 4.174
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 28:22",
+      "startSeconds": 157.805,
+      "endSeconds": 164.799,
+      "durationSeconds": 6.994
+    }
+  ]
+}

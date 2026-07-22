@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 6,
+  "verseCount": 22,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/6.mp3",
+  "durationSeconds": 157.629,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 6:1",
+      "startSeconds": 0.0,
+      "endSeconds": 5.433,
+      "durationSeconds": 5.433
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 6:2",
+      "startSeconds": 5.613,
+      "endSeconds": 11.361,
+      "durationSeconds": 5.748
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 6:3",
+      "startSeconds": 11.541,
+      "endSeconds": 18.891,
+      "durationSeconds": 7.35
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 6:4",
+      "startSeconds": 19.071,
+      "endSeconds": 30.609,
+      "durationSeconds": 11.538
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 6:5",
+      "startSeconds": 30.789,
+      "endSeconds": 39.187,
+      "durationSeconds": 8.398
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 6:6",
+      "startSeconds": 39.367,
+      "endSeconds": 43.676,
+      "durationSeconds": 4.309
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 6:7",
+      "startSeconds": 43.856,
+      "endSeconds": 53.472,
+      "durationSeconds": 9.616
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 6:8",
+      "startSeconds": 53.652,
+      "endSeconds": 56.185,
+      "durationSeconds": 2.533
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 6:9",
+      "startSeconds": 56.365,
+      "endSeconds": 63.452,
+      "durationSeconds": 7.087
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 6:10",
+      "startSeconds": 63.632,
+      "endSeconds": 66.995,
+      "durationSeconds": 3.364
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 6:11",
+      "startSeconds": 67.175,
+      "endSeconds": 71.185,
+      "durationSeconds": 4.01
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 6:12",
+      "startSeconds": 71.365,
+      "endSeconds": 77.168,
+      "durationSeconds": 5.803
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 6:13",
+      "startSeconds": 77.348,
+      "endSeconds": 85.326,
+      "durationSeconds": 7.978
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 6:14",
+      "startSeconds": 85.506,
+      "endSeconds": 91.167,
+      "durationSeconds": 5.661
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 6:15",
+      "startSeconds": 91.347,
+      "endSeconds": 100.546,
+      "durationSeconds": 9.199
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 6:16",
+      "startSeconds": 100.726,
+      "endSeconds": 111.205,
+      "durationSeconds": 10.479
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 6:17",
+      "startSeconds": 111.385,
+      "endSeconds": 122.077,
+      "durationSeconds": 10.692
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 6:18",
+      "startSeconds": 122.257,
+      "endSeconds": 129.364,
+      "durationSeconds": 7.108
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 6:19",
+      "startSeconds": 129.544,
+      "endSeconds": 137.361,
+      "durationSeconds": 7.816
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 6:20",
+      "startSeconds": 137.541,
+      "endSeconds": 147.088,
+      "durationSeconds": 9.548
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 6:21",
+      "startSeconds": 147.268,
+      "endSeconds": 153.72,
+      "durationSeconds": 6.452
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 6:22",
+      "startSeconds": 153.9,
+      "endSeconds": 157.629,
+      "durationSeconds": 3.729
+    }
+  ]
+}

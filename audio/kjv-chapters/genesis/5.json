@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 5,
+  "verseCount": 32,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/5.mp3",
+  "durationSeconds": 153.105,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 5:1",
+      "startSeconds": 0.0,
+      "endSeconds": 6.917,
+      "durationSeconds": 6.917
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 5:2",
+      "startSeconds": 7.097,
+      "endSeconds": 12.739,
+      "durationSeconds": 5.642
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 5:3",
+      "startSeconds": 12.919,
+      "endSeconds": 19.822,
+      "durationSeconds": 6.903
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 5:4",
+      "startSeconds": 20.002,
+      "endSeconds": 25.212,
+      "durationSeconds": 5.21
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 5:5",
+      "startSeconds": 25.392,
+      "endSeconds": 29.508,
+      "durationSeconds": 4.116
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 5:6",
+      "startSeconds": 29.688,
+      "endSeconds": 33.005,
+      "durationSeconds": 3.317
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 5:7",
+      "startSeconds": 33.185,
+      "endSeconds": 38.142,
+      "durationSeconds": 4.957
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 5:8",
+      "startSeconds": 38.322,
+      "endSeconds": 42.123,
+      "durationSeconds": 3.801
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 5:9",
+      "startSeconds": 42.303,
+      "endSeconds": 45.281,
+      "durationSeconds": 2.977
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 5:10",
+      "startSeconds": 45.461,
+      "endSeconds": 50.551,
+      "durationSeconds": 5.091
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 5:11",
+      "startSeconds": 50.731,
+      "endSeconds": 54.602,
+      "durationSeconds": 3.87
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 5:12",
+      "startSeconds": 54.782,
+      "endSeconds": 58.125,
+      "durationSeconds": 3.343
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 5:13",
+      "startSeconds": 58.305,
+      "endSeconds": 63.65,
+      "durationSeconds": 5.345
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 5:14",
+      "startSeconds": 63.83,
+      "endSeconds": 67.65,
+      "durationSeconds": 3.82
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 5:15",
+      "startSeconds": 67.83,
+      "endSeconds": 71.499,
+      "durationSeconds": 3.67
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 5:16",
+      "startSeconds": 71.679,
+      "endSeconds": 77.003,
+      "durationSeconds": 5.323
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 5:17",
+      "startSeconds": 77.183,
+      "endSeconds": 81.686,
+      "durationSeconds": 4.503
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 5:18",
+      "startSeconds": 81.866,
+      "endSeconds": 85.74,
+      "durationSeconds": 3.874
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 5:19",
+      "startSeconds": 85.92,
+      "endSeconds": 90.54,
+      "durationSeconds": 4.62
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 5:20",
+      "startSeconds": 90.72,
+      "endSeconds": 94.863,
+      "durationSeconds": 4.143
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 5:21",
+      "startSeconds": 95.043,
+      "endSeconds": 98.573,
+      "durationSeconds": 3.529
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 5:22",
+      "startSeconds": 98.753,
+      "endSeconds": 104.013,
+      "durationSeconds": 5.26
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 5:23",
+      "startSeconds": 104.193,
+      "endSeconds": 107.737,
+      "durationSeconds": 3.544
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 5:24",
+      "startSeconds": 107.917,
+      "endSeconds": 111.77,
+      "durationSeconds": 3.853
+    },
+    {
+      "verseIndex": 24,
+      "verse": 25,
+      "reference": "Genesis 5:25",
+      "startSeconds": 111.95,
+      "endSeconds": 115.924,
+      "durationSeconds": 3.975
+    },
+    {
+      "verseIndex": 25,
+      "verse": 26,
+      "reference": "Genesis 5:26",
+      "startSeconds": 116.104,
+      "endSeconds": 121.687,
+      "durationSeconds": 5.583
+    },
+    {
+      "verseIndex": 26,
+      "verse": 27,
+      "reference": "Genesis 5:27",
+      "startSeconds": 121.867,
+      "endSeconds": 126.161,
+      "durationSeconds": 4.294
+    },
+    {
+      "verseIndex": 27,
+      "verse": 28,
+      "reference": "Genesis 5:28",
+      "startSeconds": 126.341,
+      "endSeconds": 129.992,
+      "durationSeconds": 3.651
+    },
+    {
+      "verseIndex": 28,
+      "verse": 29,
+      "reference": "Genesis 5:29",
+      "startSeconds": 130.172,
+      "endSeconds": 138.235,
+      "durationSeconds": 8.064
+    },
+    {
+      "verseIndex": 29,
+      "verse": 30,
+      "reference": "Genesis 5:30",
+      "startSeconds": 138.415,
+      "endSeconds": 143.815,
+      "durationSeconds": 5.4
+    },
+    {
+      "verseIndex": 30,
+      "verse": 31,
+      "reference": "Genesis 5:31",
+      "startSeconds": 143.995,
+      "endSeconds": 148.482,
+      "durationSeconds": 4.487
+    },
+    {
+      "verseIndex": 31,
+      "verse": 32,
+      "reference": "Genesis 5:32",
+      "startSeconds": 148.662,
+      "endSeconds": 153.105,
+      "durationSeconds": 4.443
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 39,
+  "verseCount": 23,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/39.mp3",
+  "durationSeconds": 170.747,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 39:1",
+      "startSeconds": 0.0,
+      "endSeconds": 9.326,
+      "durationSeconds": 9.326
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 39:2",
+      "startSeconds": 9.506,
+      "endSeconds": 15.215,
+      "durationSeconds": 5.709
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 39:3",
+      "startSeconds": 15.395,
+      "endSeconds": 21.257,
+      "durationSeconds": 5.861
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 39:4",
+      "startSeconds": 21.437,
+      "endSeconds": 28.68,
+      "durationSeconds": 7.243
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 39:5",
+      "startSeconds": 28.86,
+      "endSeconds": 40.683,
+      "durationSeconds": 11.823
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 39:6",
+      "startSeconds": 40.863,
+      "endSeconds": 49.503,
+      "durationSeconds": 8.64
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 39:7",
+      "startSeconds": 49.683,
+      "endSeconds": 55.606,
+      "durationSeconds": 5.923
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 39:8",
+      "startSeconds": 55.786,
+      "endSeconds": 64.55,
+      "durationSeconds": 8.764
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 39:9",
+      "startSeconds": 64.73,
+      "endSeconds": 74.287,
+      "durationSeconds": 9.558
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 39:10",
+      "startSeconds": 74.467,
+      "endSeconds": 81.026,
+      "durationSeconds": 6.558
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 39:11",
+      "startSeconds": 81.206,
+      "endSeconds": 88.39,
+      "durationSeconds": 7.184
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 39:12",
+      "startSeconds": 88.57,
+      "endSeconds": 94.65,
+      "durationSeconds": 6.08
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 39:13",
+      "startSeconds": 94.83,
+      "endSeconds": 99.531,
+      "durationSeconds": 4.701
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 39:14",
+      "startSeconds": 99.711,
+      "endSeconds": 109.05,
+      "durationSeconds": 9.339
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 39:15",
+      "startSeconds": 109.23,
+      "endSeconds": 115.743,
+      "durationSeconds": 6.513
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 39:16",
+      "startSeconds": 115.923,
+      "endSeconds": 119.391,
+      "durationSeconds": 3.468
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 39:17",
+      "startSeconds": 119.571,
+      "endSeconds": 126.72,
+      "durationSeconds": 7.149
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 39:18",
+      "startSeconds": 126.9,
+      "endSeconds": 132.279,
+      "durationSeconds": 5.379
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 39:19",
+      "startSeconds": 132.459,
+      "endSeconds": 140.722,
+      "durationSeconds": 8.263
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 39:20",
+      "startSeconds": 140.902,
+      "endSeconds": 147.967,
+      "durationSeconds": 7.064
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 39:21",
+      "startSeconds": 148.147,
+      "endSeconds": 153.601,
+      "durationSeconds": 5.454
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 39:22",
+      "startSeconds": 153.781,
+      "endSeconds": 161.757,
+      "durationSeconds": 7.976
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 39:23",
+      "startSeconds": 161.937,
+      "endSeconds": 170.747,
+      "durationSeconds": 8.81
+    }
+  ]
+}

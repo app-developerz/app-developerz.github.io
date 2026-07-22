@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 23,
+  "verseCount": 20,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/23.mp3",
+  "durationSeconds": 148.717,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 23:1",
+      "startSeconds": 0.0,
+      "endSeconds": 5.214,
+      "durationSeconds": 5.214
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 23:2",
+      "startSeconds": 5.394,
+      "endSeconds": 12.747,
+      "durationSeconds": 7.353
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 23:3",
+      "startSeconds": 12.927,
+      "endSeconds": 17.447,
+      "durationSeconds": 4.52
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 23:4",
+      "startSeconds": 17.627,
+      "endSeconds": 24.786,
+      "durationSeconds": 7.159
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 23:5",
+      "startSeconds": 24.966,
+      "endSeconds": 28.304,
+      "durationSeconds": 3.338
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 23:6",
+      "startSeconds": 28.484,
+      "endSeconds": 38.321,
+      "durationSeconds": 9.837
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 23:7",
+      "startSeconds": 38.501,
+      "endSeconds": 43.81,
+      "durationSeconds": 5.309
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 23:8",
+      "startSeconds": 43.99,
+      "endSeconds": 51.604,
+      "durationSeconds": 7.614
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 23:9",
+      "startSeconds": 51.784,
+      "endSeconds": 61.045,
+      "durationSeconds": 9.261
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 23:10",
+      "startSeconds": 61.225,
+      "endSeconds": 70.072,
+      "durationSeconds": 8.847
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 23:11",
+      "startSeconds": 70.252,
+      "endSeconds": 79.033,
+      "durationSeconds": 8.782
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 23:12",
+      "startSeconds": 79.213,
+      "endSeconds": 82.727,
+      "durationSeconds": 3.513
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 23:13",
+      "startSeconds": 82.907,
+      "endSeconds": 93.351,
+      "durationSeconds": 10.444
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 23:14",
+      "startSeconds": 93.531,
+      "endSeconds": 96.231,
+      "durationSeconds": 2.7
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 23:15",
+      "startSeconds": 96.411,
+      "endSeconds": 104.64,
+      "durationSeconds": 8.229
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 23:16",
+      "startSeconds": 104.82,
+      "endSeconds": 114.872,
+      "durationSeconds": 10.052
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 23:17",
+      "startSeconds": 115.052,
+      "endSeconds": 127.563,
+      "durationSeconds": 12.511
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 23:18",
+      "startSeconds": 127.743,
+      "endSeconds": 133.588,
+      "durationSeconds": 5.845
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 23:19",
+      "startSeconds": 133.768,
+      "endSeconds": 141.486,
+      "durationSeconds": 7.718
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 23:20",
+      "startSeconds": 141.666,
+      "endSeconds": 148.717,
+      "durationSeconds": 7.052
+    }
+  ]
+}

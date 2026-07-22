@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 41,
+  "verseCount": 57,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/41.mp3",
+  "durationSeconds": 390.767,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 41:1",
+      "startSeconds": 0.0,
+      "endSeconds": 5.574,
+      "durationSeconds": 5.574
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 41:2",
+      "startSeconds": 5.754,
+      "endSeconds": 11.428,
+      "durationSeconds": 5.674
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 41:3",
+      "startSeconds": 11.608,
+      "endSeconds": 19.709,
+      "durationSeconds": 8.101
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 41:4",
+      "startSeconds": 19.889,
+      "endSeconds": 25.666,
+      "durationSeconds": 5.777
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 41:5",
+      "startSeconds": 25.846,
+      "endSeconds": 32.369,
+      "durationSeconds": 6.524
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 41:6",
+      "startSeconds": 32.549,
+      "endSeconds": 37.218,
+      "durationSeconds": 4.669
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 41:7",
+      "startSeconds": 37.398,
+      "endSeconds": 44.472,
+      "durationSeconds": 7.074
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 41:8",
+      "startSeconds": 44.652,
+      "endSeconds": 56.061,
+      "durationSeconds": 11.409
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 41:9",
+      "startSeconds": 56.241,
+      "endSeconds": 60.836,
+      "durationSeconds": 4.595
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 41:10",
+      "startSeconds": 61.016,
+      "endSeconds": 67.148,
+      "durationSeconds": 6.132
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 41:11",
+      "startSeconds": 67.328,
+      "endSeconds": 73.076,
+      "durationSeconds": 5.748
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 41:12",
+      "startSeconds": 73.256,
+      "endSeconds": 83.463,
+      "durationSeconds": 10.207
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 41:13",
+      "startSeconds": 83.643,
+      "endSeconds": 89.678,
+      "durationSeconds": 6.035
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 41:14",
+      "startSeconds": 89.858,
+      "endSeconds": 97.807,
+      "durationSeconds": 7.949
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 41:15",
+      "startSeconds": 97.987,
+      "endSeconds": 107.195,
+      "durationSeconds": 9.208
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 41:16",
+      "startSeconds": 107.375,
+      "endSeconds": 112.748,
+      "durationSeconds": 5.372
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 41:17",
+      "startSeconds": 112.928,
+      "endSeconds": 117.892,
+      "durationSeconds": 4.965
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 41:18",
+      "startSeconds": 118.072,
+      "endSeconds": 123.92,
+      "durationSeconds": 5.848
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 41:19",
+      "startSeconds": 124.1,
+      "endSeconds": 132.093,
+      "durationSeconds": 7.993
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 41:20",
+      "startSeconds": 132.273,
+      "endSeconds": 136.053,
+      "durationSeconds": 3.779
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 41:21",
+      "startSeconds": 136.233,
+      "endSeconds": 143.789,
+      "durationSeconds": 7.556
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 41:22",
+      "startSeconds": 143.969,
+      "endSeconds": 148.919,
+      "durationSeconds": 4.95
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 41:23",
+      "startSeconds": 149.099,
+      "endSeconds": 155.208,
+      "durationSeconds": 6.11
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 41:24",
+      "startSeconds": 155.388,
+      "endSeconds": 163.001,
+      "durationSeconds": 7.612
+    },
+    {
+      "verseIndex": 24,
+      "verse": 25,
+      "reference": "Genesis 41:25",
+      "startSeconds": 163.181,
+      "endSeconds": 169.375,
+      "durationSeconds": 6.194
+    },
+    {
+      "verseIndex": 25,
+      "verse": 26,
+      "reference": "Genesis 41:26",
+      "startSeconds": 169.555,
+      "endSeconds": 175.847,
+      "durationSeconds": 6.292
+    },
+    {
+      "verseIndex": 26,
+      "verse": 27,
+      "reference": "Genesis 41:27",
+      "startSeconds": 176.027,
+      "endSeconds": 184.221,
+      "durationSeconds": 8.194
+    },
+    {
+      "verseIndex": 27,
+      "verse": 28,
+      "reference": "Genesis 41:28",
+      "startSeconds": 184.401,
+      "endSeconds": 190.056,
+      "durationSeconds": 5.656
+    },
+    {
+      "verseIndex": 28,
+      "verse": 29,
+      "reference": "Genesis 41:29",
+      "startSeconds": 190.236,
+      "endSeconds": 194.525,
+      "durationSeconds": 4.289
+    },
+    {
+      "verseIndex": 29,
+      "verse": 30,
+      "reference": "Genesis 41:30",
+      "startSeconds": 194.705,
+      "endSeconds": 202.434,
+      "durationSeconds": 7.729
+    },
+    {
+      "verseIndex": 30,
+      "verse": 31,
+      "reference": "Genesis 41:31",
+      "startSeconds": 202.614,
+      "endSeconds": 208.537,
+      "durationSeconds": 5.923
+    },
+    {
+      "verseIndex": 31,
+      "verse": 32,
+      "reference": "Genesis 41:32",
+      "startSeconds": 208.717,
+      "endSeconds": 216.22,
+      "durationSeconds": 7.503
+    },
+    {
+      "verseIndex": 32,
+      "verse": 33,
+      "reference": "Genesis 41:33",
+      "startSeconds": 216.4,
+      "endSeconds": 221.362,
+      "durationSeconds": 4.962
+    },
+    {
+      "verseIndex": 33,
+      "verse": 34,
+      "reference": "Genesis 41:34",
+      "startSeconds": 221.542,
+      "endSeconds": 228.962,
+      "durationSeconds": 7.42
+    },
+    {
+      "verseIndex": 34,
+      "verse": 35,
+      "reference": "Genesis 41:35",
+      "startSeconds": 229.142,
+      "endSeconds": 235.777,
+      "durationSeconds": 6.636
+    },
+    {
+      "verseIndex": 35,
+      "verse": 36,
+      "reference": "Genesis 41:36",
+      "startSeconds": 235.957,
+      "endSeconds": 243.673,
+      "durationSeconds": 7.715
+    },
+    {
+      "verseIndex": 36,
+      "verse": 37,
+      "reference": "Genesis 41:37",
+      "startSeconds": 243.853,
+      "endSeconds": 247.89,
+      "durationSeconds": 4.037
+    },
+    {
+      "verseIndex": 37,
+      "verse": 38,
+      "reference": "Genesis 41:38",
+      "startSeconds": 248.07,
+      "endSeconds": 254.616,
+      "durationSeconds": 6.547
+    },
+    {
+      "verseIndex": 38,
+      "verse": 39,
+      "reference": "Genesis 41:39",
+      "startSeconds": 254.796,
+      "endSeconds": 261.361,
+      "durationSeconds": 6.564
+    },
+    {
+      "verseIndex": 39,
+      "verse": 40,
+      "reference": "Genesis 41:40",
+      "startSeconds": 261.541,
+      "endSeconds": 268.126,
+      "durationSeconds": 6.585
+    },
+    {
+      "verseIndex": 40,
+      "verse": 41,
+      "reference": "Genesis 41:41",
+      "startSeconds": 268.306,
+      "endSeconds": 272.686,
+      "durationSeconds": 4.38
+    },
+    {
+      "verseIndex": 41,
+      "verse": 42,
+      "reference": "Genesis 41:42",
+      "startSeconds": 272.866,
+      "endSeconds": 280.702,
+      "durationSeconds": 7.836
+    },
+    {
+      "verseIndex": 42,
+      "verse": 43,
+      "reference": "Genesis 41:43",
+      "startSeconds": 280.882,
+      "endSeconds": 288.492,
+      "durationSeconds": 7.61
+    },
+    {
+      "verseIndex": 43,
+      "verse": 44,
+      "reference": "Genesis 41:44",
+      "startSeconds": 288.672,
+      "endSeconds": 295.434,
+      "durationSeconds": 6.762
+    },
+    {
+      "verseIndex": 44,
+      "verse": 45,
+      "reference": "Genesis 41:45",
+      "startSeconds": 295.614,
+      "endSeconds": 304.873,
+      "durationSeconds": 9.259
+    },
+    {
+      "verseIndex": 45,
+      "verse": 46,
+      "reference": "Genesis 41:46",
+      "startSeconds": 305.053,
+      "endSeconds": 313.81,
+      "durationSeconds": 8.756
+    },
+    {
+      "verseIndex": 46,
+      "verse": 47,
+      "reference": "Genesis 41:47",
+      "startSeconds": 313.99,
+      "endSeconds": 317.772,
+      "durationSeconds": 3.782
+    },
+    {
+      "verseIndex": 47,
+      "verse": 48,
+      "reference": "Genesis 41:48",
+      "startSeconds": 317.952,
+      "endSeconds": 328.192,
+      "durationSeconds": 10.24
+    },
+    {
+      "verseIndex": 48,
+      "verse": 49,
+      "reference": "Genesis 41:49",
+      "startSeconds": 328.372,
+      "endSeconds": 334.873,
+      "durationSeconds": 6.5
+    },
+    {
+      "verseIndex": 49,
+      "verse": 50,
+      "reference": "Genesis 41:50",
+      "startSeconds": 335.053,
+      "endSeconds": 342.14,
+      "durationSeconds": 7.088
+    },
+    {
+      "verseIndex": 50,
+      "verse": 51,
+      "reference": "Genesis 41:51",
+      "startSeconds": 342.32,
+      "endSeconds": 349.227,
+      "durationSeconds": 6.906
+    },
+    {
+      "verseIndex": 51,
+      "verse": 52,
+      "reference": "Genesis 41:52",
+      "startSeconds": 349.407,
+      "endSeconds": 355.132,
+      "durationSeconds": 5.725
+    },
+    {
+      "verseIndex": 52,
+      "verse": 53,
+      "reference": "Genesis 41:53",
+      "startSeconds": 355.312,
+      "endSeconds": 359.686,
+      "durationSeconds": 4.374
+    },
+    {
+      "verseIndex": 53,
+      "verse": 54,
+      "reference": "Genesis 41:54",
+      "startSeconds": 359.866,
+      "endSeconds": 367.5,
+      "durationSeconds": 7.634
+    },
+    {
+      "verseIndex": 54,
+      "verse": 55,
+      "reference": "Genesis 41:55",
+      "startSeconds": 367.68,
+      "endSeconds": 376.098,
+      "durationSeconds": 8.419
+    },
+    {
+      "verseIndex": 55,
+      "verse": 56,
+      "reference": "Genesis 41:56",
+      "startSeconds": 376.278,
+      "endSeconds": 384.588,
+      "durationSeconds": 8.309
+    },
+    {
+      "verseIndex": 56,
+      "verse": 57,
+      "reference": "Genesis 41:57",
+      "startSeconds": 384.768,
+      "endSeconds": 390.767,
+      "durationSeconds": 5.999
+    }
+  ]
+}

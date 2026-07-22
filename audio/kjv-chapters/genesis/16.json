@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 16,
+  "verseCount": 16,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/16.mp3",
+  "durationSeconds": 118.261,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 16:1",
+      "startSeconds": 0.0,
+      "endSeconds": 6.144,
+      "durationSeconds": 6.144
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 16:2",
+      "startSeconds": 6.324,
+      "endSeconds": 17.058,
+      "durationSeconds": 10.734
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 16:3",
+      "startSeconds": 17.238,
+      "endSeconds": 25.509,
+      "durationSeconds": 8.271
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 16:4",
+      "startSeconds": 25.689,
+      "endSeconds": 32.085,
+      "durationSeconds": 6.397
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 16:5",
+      "startSeconds": 32.265,
+      "endSeconds": 42.444,
+      "durationSeconds": 10.179
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 16:6",
+      "startSeconds": 42.624,
+      "endSeconds": 51.688,
+      "durationSeconds": 9.064
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 16:7",
+      "startSeconds": 51.868,
+      "endSeconds": 57.621,
+      "durationSeconds": 5.753
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 16:8",
+      "startSeconds": 57.801,
+      "endSeconds": 65.876,
+      "durationSeconds": 8.075
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 16:9",
+      "startSeconds": 66.056,
+      "endSeconds": 71.613,
+      "durationSeconds": 5.557
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 16:10",
+      "startSeconds": 71.793,
+      "endSeconds": 78.354,
+      "durationSeconds": 6.56
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 16:11",
+      "startSeconds": 78.534,
+      "endSeconds": 87.766,
+      "durationSeconds": 9.232
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 16:12",
+      "startSeconds": 87.946,
+      "endSeconds": 95.97,
+      "durationSeconds": 8.024
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 16:13",
+      "startSeconds": 96.15,
+      "endSeconds": 102.818,
+      "durationSeconds": 6.668
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 16:14",
+      "startSeconds": 102.998,
+      "endSeconds": 108.061,
+      "durationSeconds": 5.063
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 16:15",
+      "startSeconds": 108.241,
+      "endSeconds": 113.401,
+      "durationSeconds": 5.161
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 16:16",
+      "startSeconds": 113.581,
+      "endSeconds": 118.261,
+      "durationSeconds": 4.68
+    }
+  ]
+}

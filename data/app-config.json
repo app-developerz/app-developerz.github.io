@@ -19,6 +19,13 @@
     "availableBooks": [
       "genesis"
     ],
-    "pathPattern": "{bookSlug}/{chapter}/{verse}.mp3"
+    "pathPattern": "{bookSlug}/{chapter}/{verse}.mp3",
+    "chapterEnabled": true,
+    "chapterBaseUrl": "https://app-developerz.github.io/audio/kjv-chapters",
+    "availableChapterBooks": [
+      "genesis"
+    ],
+    "chapterAudioPathPattern": "{bookSlug}/{chapter}.mp3",
+    "chapterTimingPathPattern": "{bookSlug}/{chapter}.json"
   }
 }

@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "name": "Genesis",
+    "slug": "genesis"
+  },
+  "chapter": 34,
+  "verseCount": 31,
+  "audioUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis/34.mp3",
+  "durationSeconds": 213.297,
+  "transition": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80
+  },
+  "audio": {
+    "sampleRate": 24000,
+    "channels": 1,
+    "bitrate": "48k"
+  },
+  "verses": [
+    {
+      "verseIndex": 0,
+      "verse": 1,
+      "reference": "Genesis 34:1",
+      "startSeconds": 0.0,
+      "endSeconds": 5.12,
+      "durationSeconds": 5.12
+    },
+    {
+      "verseIndex": 1,
+      "verse": 2,
+      "reference": "Genesis 34:2",
+      "startSeconds": 5.3,
+      "endSeconds": 11.756,
+      "durationSeconds": 6.456
+    },
+    {
+      "verseIndex": 2,
+      "verse": 3,
+      "reference": "Genesis 34:3",
+      "startSeconds": 11.936,
+      "endSeconds": 17.875,
+      "durationSeconds": 5.938
+    },
+    {
+      "verseIndex": 3,
+      "verse": 4,
+      "reference": "Genesis 34:4",
+      "startSeconds": 18.055,
+      "endSeconds": 22.467,
+      "durationSeconds": 4.413
+    },
+    {
+      "verseIndex": 4,
+      "verse": 5,
+      "reference": "Genesis 34:5",
+      "startSeconds": 22.647,
+      "endSeconds": 30.047,
+      "durationSeconds": 7.4
+    },
+    {
+      "verseIndex": 5,
+      "verse": 6,
+      "reference": "Genesis 34:6",
+      "startSeconds": 30.227,
+      "endSeconds": 34.017,
+      "durationSeconds": 3.79
+    },
+    {
+      "verseIndex": 6,
+      "verse": 7,
+      "reference": "Genesis 34:7",
+      "startSeconds": 34.197,
+      "endSeconds": 44.292,
+      "durationSeconds": 10.095
+    },
+    {
+      "verseIndex": 7,
+      "verse": 8,
+      "reference": "Genesis 34:8",
+      "startSeconds": 44.472,
+      "endSeconds": 50.701,
+      "durationSeconds": 6.229
+    },
+    {
+      "verseIndex": 8,
+      "verse": 9,
+      "reference": "Genesis 34:9",
+      "startSeconds": 50.881,
+      "endSeconds": 55.814,
+      "durationSeconds": 4.932
+    },
+    {
+      "verseIndex": 9,
+      "verse": 10,
+      "reference": "Genesis 34:10",
+      "startSeconds": 55.994,
+      "endSeconds": 61.983,
+      "durationSeconds": 5.989
+    },
+    {
+      "verseIndex": 10,
+      "verse": 11,
+      "reference": "Genesis 34:11",
+      "startSeconds": 62.163,
+      "endSeconds": 68.82,
+      "durationSeconds": 6.656
+    },
+    {
+      "verseIndex": 11,
+      "verse": 12,
+      "reference": "Genesis 34:12",
+      "startSeconds": 69.0,
+      "endSeconds": 75.149,
+      "durationSeconds": 6.149
+    },
+    {
+      "verseIndex": 12,
+      "verse": 13,
+      "reference": "Genesis 34:13",
+      "startSeconds": 75.329,
+      "endSeconds": 81.801,
+      "durationSeconds": 6.472
+    },
+    {
+      "verseIndex": 13,
+      "verse": 14,
+      "reference": "Genesis 34:14",
+      "startSeconds": 81.981,
+      "endSeconds": 89.118,
+      "durationSeconds": 7.136
+    },
+    {
+      "verseIndex": 14,
+      "verse": 15,
+      "reference": "Genesis 34:15",
+      "startSeconds": 89.298,
+      "endSeconds": 95.02,
+      "durationSeconds": 5.722
+    },
+    {
+      "verseIndex": 15,
+      "verse": 16,
+      "reference": "Genesis 34:16",
+      "startSeconds": 95.2,
+      "endSeconds": 101.805,
+      "durationSeconds": 6.605
+    },
+    {
+      "verseIndex": 16,
+      "verse": 17,
+      "reference": "Genesis 34:17",
+      "startSeconds": 101.985,
+      "endSeconds": 107.698,
+      "durationSeconds": 5.713
+    },
+    {
+      "verseIndex": 17,
+      "verse": 18,
+      "reference": "Genesis 34:18",
+      "startSeconds": 107.878,
+      "endSeconds": 110.957,
+      "durationSeconds": 3.079
+    },
+    {
+      "verseIndex": 18,
+      "verse": 19,
+      "reference": "Genesis 34:19",
+      "startSeconds": 111.137,
+      "endSeconds": 118.41,
+      "durationSeconds": 7.272
+    },
+    {
+      "verseIndex": 19,
+      "verse": 20,
+      "reference": "Genesis 34:20",
+      "startSeconds": 118.59,
+      "endSeconds": 124.095,
+      "durationSeconds": 5.505
+    },
+    {
+      "verseIndex": 20,
+      "verse": 21,
+      "reference": "Genesis 34:21",
+      "startSeconds": 124.275,
+      "endSeconds": 135.444,
+      "durationSeconds": 11.17
+    },
+    {
+      "verseIndex": 21,
+      "verse": 22,
+      "reference": "Genesis 34:22",
+      "startSeconds": 135.624,
+      "endSeconds": 143.888,
+      "durationSeconds": 8.264
+    },
+    {
+      "verseIndex": 22,
+      "verse": 23,
+      "reference": "Genesis 34:23",
+      "startSeconds": 144.068,
+      "endSeconds": 151.849,
+      "durationSeconds": 7.781
+    },
+    {
+      "verseIndex": 23,
+      "verse": 24,
+      "reference": "Genesis 34:24",
+      "startSeconds": 152.029,
+      "endSeconds": 160.036,
+      "durationSeconds": 8.007
+    },
+    {
+      "verseIndex": 24,
+      "verse": 25,
+      "reference": "Genesis 34:25",
+      "startSeconds": 160.216,
+      "endSeconds": 170.779,
+      "durationSeconds": 10.563
+    },
+    {
+      "verseIndex": 25,
+      "verse": 26,
+      "reference": "Genesis 34:26",
+      "startSeconds": 170.958,
+      "endSeconds": 176.813,
+      "durationSeconds": 5.855
+    },
+    {
+      "verseIndex": 26,
+      "verse": 27,
+      "reference": "Genesis 34:27",
+      "startSeconds": 176.993,
+      "endSeconds": 182.204,
+      "durationSeconds": 5.211
+    },
+    {
+      "verseIndex": 27,
+      "verse": 28,
+      "reference": "Genesis 34:28",
+      "startSeconds": 182.385,
+      "endSeconds": 188.952,
+      "durationSeconds": 6.568
+    },
+    {
+      "verseIndex": 28,
+      "verse": 29,
+      "reference": "Genesis 34:29",
+      "startSeconds": 189.132,
+      "endSeconds": 195.513,
+      "durationSeconds": 6.38
+    },
+    {
+      "verseIndex": 29,
+      "verse": 30,
+      "reference": "Genesis 34:30",
+      "startSeconds": 195.693,
+      "endSeconds": 209.886,
+      "durationSeconds": 14.194
+    },
+    {
+      "verseIndex": 30,
+      "verse": 31,
+      "reference": "Genesis 34:31",
+      "startSeconds": 210.066,
+      "endSeconds": 213.297,
+      "durationSeconds": 3.23
+    }
+  ]
+}

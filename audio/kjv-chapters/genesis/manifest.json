@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "translation": "KJV",
+  "book": {
+    "order": 1,
+    "name": "Genesis",
+    "slug": "genesis",
+    "testament": "Old",
+    "chapterCount": 50,
+    "verseCount": 1533
+  },
+  "chapterFilePattern": "{chapter}.mp3",
+  "timingFilePattern": "{chapter}.json",
+  "publicBaseUrl": "https://app-developerz.github.io/audio/kjv-chapters/genesis",
+  "buildSettings": {
+    "gapMilliseconds": 180,
+    "silenceThresholdDb": -45.0,
+    "minimumSilenceMilliseconds": 100,
+    "keptEdgeSilenceMilliseconds": 80,
+    "bitrate": "48k"
+  }
+}
